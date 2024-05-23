@@ -1,0 +1,925 @@
+[
+    {
+        "course_code": "CS 201",
+        "course_type": "core",
+        "course_name": "Programming Fundamentals",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "IF 100"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "A",
+                "times": [
+                    [
+                        "Mon 12:40-14:30 FMAN 1099",
+                        "Wed 12:40-13:30 FMAN 1099"
+                    ]
+                ]
+            },
+            {
+                "section": "B",
+                "times": [
+                    [
+                        "Mon 09:40-11:30 FASS G062",
+                        "Wed 13:40-14:30 FASS G062"
+                    ]
+                ]
+            },
+            {
+                "section": "A1",
+                "times": [
+                    [
+                        "Thu 10:40-12:30 FASS G052"
+                    ]
+                ]
+            },
+            {
+                "section": "A2",
+                "times": [
+                    [
+                        "Thu 10:40-12:30 FENS L029"
+                    ]
+                ]
+            },
+            {
+                "section": "A3",
+                "times": [
+                    [
+                        "Thu 10:40-12:30 FENS L027"
+                    ]
+                ]
+            },
+            {
+                "section": "A4",
+                "times": [
+                    [
+                        "Thu 10:40-12:30 FASS G049"
+                    ]
+                ]
+            },
+            {
+                "section": "B1",
+                "times": [
+                    [
+                        "Thu 14:40-16:30 FENS L027"
+                    ]
+                ]
+            },
+            {
+                "section": "B2",
+                "times": [
+                    [
+                        "Thu 14:40-16:30 FENS L029"
+                    ]
+                ]
+            },
+            {
+                "section": "B3",
+                "times": [
+                    [
+                        "Thu 14:40-16:30 FASS G049"
+                    ]
+                ]
+            },
+            {
+                "section": "B4",
+                "times": [
+                    [
+                        "Thu 14:40-16:30 FASS G052"
+                    ]
+                ]
+            },
+            {
+                "section": "C1",
+                "times": [
+                    [
+                        "Fri 10:40-12:30 FENS L027"
+                    ]
+                ]
+            },
+            {
+                "section": "C2",
+                "times": [
+                    [
+                        "Fri 10:40-12:30 FENS L029"
+                    ]
+                ]
+            },
+            {
+                "section": "C3",
+                "times": [
+                    [
+                        "Fri 10:40-12:30 FASS G056"
+                    ]
+                ]
+            },
+            {
+                "section": "C4",
+                "times": [
+                    [
+                        "Fri 10:40-12:30 FASS G052"
+                    ]
+                ]
+            },
+            {
+                "section": "D1",
+                "times": [
+                    [
+                        "Fri 15:40-17:30 FENS L029"
+                    ]
+                ]
+            },
+            {
+                "section": "D2",
+                "times": [
+                    [
+                        "Fri 15:40-17:30 FASS 2031"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS 204",
+        "course_type": "core",
+        "course_name": "Advanced Programming",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "CS 201"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 16:40-18:30 FMAN 1099",
+                        "Wed 12:40-13:30 FENS G077"
+                    ]
+                ]
+            },
+            {
+                "section": "A1",
+                "times": [
+                    [
+                        "Thu 12:40-14:30 FASS 1076-1078"
+                    ]
+                ]
+            },
+            {
+                "section": "A2",
+                "times": [
+                    [
+                        "Thu 12:40-14:30 FASS G022"
+                    ]
+                ]
+            },
+            {
+                "section": "A3",
+                "times": [
+                    [
+                        "Thu 12:40-14:30 FASS G052"
+                    ]
+                ]
+            },
+            {
+                "section": "B1",
+                "times": [
+                    [
+                        "Fri 10:40-12:30 FENS G035"
+                    ]
+                ]
+            },
+            {
+                "section": "B2",
+                "times": [
+                    [
+                        "Fri 10:40-12:30 FASS G049"
+                    ]
+                ]
+            },
+            {
+                "section": "B3",
+                "times": [
+                    [
+                        "Fri 10:40-12:30 FENS G032"
+                    ]
+                ]
+            },
+            {
+                "section": "C1",
+                "times": [
+                    [
+                        "Fri 15:40-17:30 FASS G049"
+                    ]
+                ]
+            },
+            {
+                "section": "C2",
+                "times": [
+                    [
+                        "Fri 15:40-17:30 FASS G052"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE 301",
+        "course_type": "core",
+        "course_name": "Electromagnetics II",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "ENS 201"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "EE 302",
+        "course_type": "core",
+        "course_name": "Digital Integrated Circuits",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "EL 202",
+                    "EE 202"
+                ]
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 13:40-15:30 FASS 1099",
+                        "Wed 08:40-09:30 FENS L030",
+                        "Fri 12:40-14:30 FMAN L014"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE 303",
+        "course_type": "core",
+        "course_name": "Analog Integrated Circuits",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "EL 202",
+                    "EE 202"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "EE 306",
+        "course_type": "core",
+        "course_name": "Introduction to Radio Frequency and Microwave Design",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "ENS 201",
+                "EE 200",
+                "EE 202"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 09:40-10:30 FENS L048",
+                        "Thu 14:40-16:30 FENS L058",
+                        "Fri 10:40-12:30 FENS L058"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE 307",
+        "course_type": "core",
+        "course_name": "Semiconductor Physics and Devices",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "ENS 203"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "EE 310",
+        "course_type": "core",
+        "course_name": "Hardware Description Languages",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "CS 303"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 15:40-16:30",
+                        "Wed 14:40-16:30",
+                        "Thu 18:40-19:30 FENS 1033"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE 311",
+        "course_type": "core",
+        "course_name": "Introduction to Signal Processing and Information Systems",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "ENS 211"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "EE 312",
+        "course_type": "core",
+        "course_name": "Discrete-Time Signals and Systems",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "ENS 211"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 12:40-14:30 FENS L047",
+                        "Wed 11:40-12:30 FENS L027",
+                        "Wed 16:40-18:30 FENS L029"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE 313",
+        "course_type": "core",
+        "course_name": "Introduction to Communication Systems",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "ENS 211"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "EE 314",
+        "course_type": "core",
+        "course_name": "Digital Communications",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "ENS 211"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 10:40-12:30 FENS L035",
+                        "Wed 10:40-11:30 FENS L030",
+                        "Thu 10:40-12:30 FENS L055"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE 401",
+        "course_type": "core",
+        "course_name": "Very Large Scale Integrated System Design I",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "CS 303",
+                [
+                    "EL 302",
+                    "EE 302"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "EE 402",
+        "course_type": "core",
+        "course_name": "Very Large Scale Integrated System Design II",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "EE 401",
+                    "EL 401"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "EE 403",
+        "course_type": "core",
+        "course_name": "Optoelectronics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "EE 307"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "EE 404",
+        "course_type": "core",
+        "course_name": "Introduction to Microelectromechanical Systems",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "ENS 203"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 11:40-13:30 FENS L035",
+                        "Wed 10:40-11:30 FENS L062",
+                        "Thu 16:40-18:30 FASS G022"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE 405",
+        "course_type": "core",
+        "course_name": "Communication Circuit Design",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "EL 303",
+                    "EE 303"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "EE 406",
+        "course_type": "core",
+        "course_name": "Antennas and Propagation for Wireless Communication",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "TE 305",
+                    "EE 301"
+                ]
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 14:40-16:30 FENS L062",
+                        "Tue 10:40-11:30 FENS L047"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE 407",
+        "course_type": "core",
+        "course_name": "Microelectronic Fabrication",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "EL 204",
+                    "EE 307"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "EE 408",
+        "course_type": "core",
+        "course_name": "Modeling of Semiconductor Devices",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "EL 202",
+                    "EE 202"
+                ],
+                [
+                    "EL 204",
+                    "EE 307"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "EE 409",
+        "course_type": "core",
+        "course_name": "Microwaves",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "ENS 201"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "EE 410",
+        "course_type": "core",
+        "course_name": "Information and Coding Theory",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "MATH 201",
+                "MATH 203"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 08:40-10:30 FENS L035",
+                        "Thu 12:40-13:30 FASS 2023"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE 411",
+        "course_type": "core",
+        "course_name": "RF Integrated Circuits.",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "EE 306"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "EE 413",
+        "course_type": "core",
+        "course_name": "Wireless Communications",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "TE 304",
+                    "EE 314"
+                ]
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 09:40-10:30 FENS L035",
+                        "Wed 09:40-11:30 FENS L029"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE 414",
+        "course_type": "core",
+        "course_name": "Multimedia  Communication",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "CS 201"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "EE 415",
+        "course_type": "core",
+        "course_name": "Digital Speech and Audio Processing",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "TE 302",
+                    "EE 312"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "EE 417",
+        "course_type": "core",
+        "course_name": "Computer Vision",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "CS 201"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 11:40-13:30 FASS G006",
+                        "Fri 15:40-16:30 FASS 1050",
+                        "Mon 16:40-18:30 FASS G022"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE 419",
+        "course_type": "core",
+        "course_name": "Signal Processing Design and Implementation",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "TE 302",
+                    "EE 312"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "EE 440",
+        "course_type": "core",
+        "course_name": "Mixed-Signal Integrated Circuits",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "EE 302",
+                "EE 303"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "EE 444",
+        "course_type": "core",
+        "course_name": "Optics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "ENS 201",
+                "ENS 203",
+                "ENS 211"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "EE 473",
+        "course_type": "core",
+        "course_name": "Biomedical Instrumentation",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "ENS 203"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ENS 201",
+        "course_type": "core",
+        "course_name": "Electromagnetics I",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "NS 101",
+                "MATH 102"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 12:40-14:30 FENS G032",
+                        "Thu 12:40-13:30 FENS G032",
+                        "Fri 17:40-19:30 FENS G032"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ENS 206",
+        "course_type": "core",
+        "course_name": "Systems Modeling and Control",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "MATH 102",
+                "MATH 201"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 08:40-09:30 FASS G062",
+                        "Thu 08:40-10:30 FASS G062"
+                    ]
+                ]
+            },
+            {
+                "section": "A",
+                "times": [
+                    [
+                        "Fri 08:40-10:30 FASS 1097"
+                    ]
+                ]
+            },
+            {
+                "section": "B",
+                "times": [
+                    [
+                        "Fri 12:40-14:30 FASS 1096"
+                    ]
+                ]
+            },
+            {
+                "section": "C",
+                "times": [
+                    [
+                        "Fri 14:40-16:30 FASS 1089"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ENS 409",
+        "course_type": "core",
+        "course_name": "Numerical Analysis",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "CS 201"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 10:40-11:30 FENS L047",
+                        "Tue 11:40-13:30 FENS 2019"
+                    ]
+                ]
+            }
+        ]
+    }
+]

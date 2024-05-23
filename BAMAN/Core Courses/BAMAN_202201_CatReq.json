@@ -1,0 +1,639 @@
+[
+    {
+        "course_code": "-",
+        "course_type": "core",
+        "course_name": "44",
+        "ects_credits": "-",
+        "su_credits": "-",
+        "faculty_code": "15",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "6",
+        "course_type": "core",
+        "course_name": "-",
+        "ects_credits": 18,
+        "su_credits": 6,
+        "faculty_code": "-",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "24",
+        "course_type": "core",
+        "course_name": "-",
+        "ects_credits": "-",
+        "su_credits": 26,
+        "faculty_code": "-",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "-",
+        "course_type": "core",
+        "course_name": "-",
+        "ects_credits": 5,
+        "su_credits": 240,
+        "faculty_code": "127",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "-",
+        "course_type": "core",
+        "course_name": "IF 100",
+        "ects_credits": "Computational Approaches to Problem Solving",
+        "su_credits": 5,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FENS",
+        "course_type": "core",
+        "course_name": "MATH 101",
+        "ects_credits": "Calculus I",
+        "su_credits": 6,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FENS",
+        "course_type": "core",
+        "course_name": "CIP 101N",
+        "ects_credits": "Civic Involvement Projects I-N",
+        "su_credits": 1,
+        "faculty_code": "0",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FASS",
+        "course_type": "core",
+        "course_name": "NS 101",
+        "ects_credits": "Science of Nature I",
+        "su_credits": 6,
+        "faculty_code": "4",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FENS",
+        "course_type": "core",
+        "course_name": "SPS 101",
+        "ects_credits": "Humanity and Society I",
+        "su_credits": 6,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FASS",
+        "course_type": "core",
+        "course_name": "TLL 101",
+        "ects_credits": "Turkish Language and Literature I",
+        "su_credits": 3,
+        "faculty_code": "2",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "SL",
+        "course_type": "core",
+        "course_name": "AL 102",
+        "ects_credits": "Academic Literacies",
+        "su_credits": 5,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "SL",
+        "course_type": "core",
+        "course_name": "MATH 102",
+        "ects_credits": "Calculus II",
+        "su_credits": 6,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FENS",
+        "course_type": "core",
+        "course_name": "NS 102",
+        "ects_credits": "Science of Nature II",
+        "su_credits": 6,
+        "faculty_code": "4",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FENS",
+        "course_type": "core",
+        "course_name": "SPS 102",
+        "ects_credits": "Humanity and Society II",
+        "su_credits": 6,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FASS",
+        "course_type": "core",
+        "course_name": "TLL 102",
+        "ects_credits": "Turkish Language and Literature II",
+        "su_credits": 3,
+        "faculty_code": "2",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "SL",
+        "course_type": "core",
+        "course_name": "HIST 191",
+        "ects_credits": "Principles of Atatürk and the History of the Turkish Revolution I",
+        "su_credits": 3,
+        "faculty_code": "2",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FASS",
+        "course_type": "core",
+        "course_name": "HIST 192",
+        "ects_credits": "Principles of Atatürk and the History of the Turkish Revolution II",
+        "su_credits": 3,
+        "faculty_code": "2",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FASS",
+        "course_type": "core",
+        "course_name": "HUM 201",
+        "ects_credits": "Major Works of Literature",
+        "su_credits": 5,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FASS",
+        "course_type": "core",
+        "course_name": "PROJ 201",
+        "ects_credits": "Undergraduate Project Course",
+        "su_credits": 1,
+        "faculty_code": "1",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FENS",
+        "course_type": "core",
+        "course_name": "HUM 202",
+        "ects_credits": "Major Works of Western Art",
+        "su_credits": 5,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FASS",
+        "course_type": "core",
+        "course_name": "HUM 207",
+        "ects_credits": "Major Works of Western Philosophy",
+        "su_credits": 5,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FASS",
+        "course_type": "core",
+        "course_name": "SPS 303",
+        "ects_credits": "Law and Ethics",
+        "su_credits": 5,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FASS",
+        "course_type": "core",
+        "course_name": "HUM 304",
+        "ects_credits": "Major Works of Classical Music",
+        "su_credits": 5,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FASS",
+        "course_type": "core",
+        "course_name": "HUM 311",
+        "ects_credits": "Major Works of Literature: The World Before Modernity",
+        "su_credits": 5,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FASS",
+        "course_type": "core",
+        "course_name": "HUM 312",
+        "ects_credits": "Major Works of Modern Art",
+        "su_credits": 5,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FASS",
+        "course_type": "core",
+        "course_name": "HUM 317",
+        "ects_credits": "Major Works of Moral Philosophy",
+        "su_credits": 5,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FASS",
+        "course_type": "core",
+        "course_name": "HUM 321",
+        "ects_credits": "Major Works of Literature: The Modern World",
+        "su_credits": 5,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FASS",
+        "course_type": "core",
+        "course_name": "HUM 322",
+        "ects_credits": "Major Works of Art: The World Before Modernity",
+        "su_credits": 5,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FASS",
+        "course_type": "core",
+        "course_name": "HUM 324",
+        "ects_credits": "Major Works of 20th Century Music",
+        "su_credits": 5,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FASS",
+        "course_type": "core",
+        "course_name": "HUM 371",
+        "ects_credits": "Major Works of Literature: The Islamic World",
+        "su_credits": 5,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FASS",
+        "course_type": "core",
+        "course_name": "ECON 202",
+        "ects_credits": "Macroeconomics",
+        "su_credits": 6,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FASS",
+        "course_type": "core",
+        "course_name": "ECON 204",
+        "ects_credits": "Microeconomics",
+        "su_credits": 6,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FASS",
+        "course_type": "core",
+        "course_name": "ENG 300",
+        "ects_credits": "Professional Communication Skills in English",
+        "su_credits": 5,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "SL",
+        "course_type": "core",
+        "course_name": "MGMT 201",
+        "ects_credits": "Introduction to Management",
+        "su_credits": 6,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "SBS",
+        "course_type": "core",
+        "course_name": "MGMT 203",
+        "ects_credits": "Introduction to Data Analysis and Research in Business",
+        "su_credits": 6,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "SBS",
+        "course_type": "core",
+        "course_name": "MGMT 300",
+        "ects_credits": "Summer Internship",
+        "su_credits": 5,
+        "faculty_code": "0",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "SBS",
+        "course_type": "core",
+        "course_name": "ACC 201",
+        "ects_credits": "Introduction to Financial Accounting and Reporting",
+        "su_credits": 6,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "SBS",
+        "course_type": "core",
+        "course_name": "ACC 301",
+        "ects_credits": "Managerial Accounting",
+        "su_credits": 6,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "SBS",
+        "course_type": "core",
+        "course_name": "FIN 301",
+        "ects_credits": "Financial Management",
+        "su_credits": 6,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "SBS",
+        "course_type": "core",
+        "course_name": "FIN 401",
+        "ects_credits": "Corporate Finance",
+        "su_credits": 6,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "SBS",
+        "course_type": "core",
+        "course_name": "MGMT 401",
+        "ects_credits": "Business Strategy",
+        "su_credits": 6,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "SBS",
+        "course_type": "core",
+        "course_name": "MGMT 402",
+        "ects_credits": "Entrepreneurship",
+        "su_credits": 6,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "SBS",
+        "course_type": "core",
+        "course_name": "MGMT 403",
+        "ects_credits": "International Business",
+        "su_credits": 6,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "SBS",
+        "course_type": "core",
+        "course_name": "MKTG 301",
+        "ects_credits": "Introduction to Marketing",
+        "su_credits": 6,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "SBS",
+        "course_type": "core",
+        "course_name": "MKTG 402",
+        "ects_credits": "Consumer Behavior",
+        "su_credits": 6,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "SBS",
+        "course_type": "core",
+        "course_name": "OPIM 301",
+        "ects_credits": "Operations Management",
+        "su_credits": 6,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "SBS",
+        "course_type": "core",
+        "course_name": "OPIM 302",
+        "ects_credits": "Management Information Systems",
+        "su_credits": 6,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "SBS",
+        "course_type": "core",
+        "course_name": "ORG 301",
+        "ects_credits": "Organizations and Organizing",
+        "su_credits": 6,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "SBS",
+        "course_type": "core",
+        "course_name": "ORG 302",
+        "ects_credits": "Organizational Behavior",
+        "su_credits": 6,
+        "faculty_code": "3",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    }
+]

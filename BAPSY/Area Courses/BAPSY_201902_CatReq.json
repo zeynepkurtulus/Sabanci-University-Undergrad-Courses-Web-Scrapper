@@ -1,0 +1,772 @@
+[
+    {
+        "course_code": "PSY 316",
+        "course_type": "area",
+        "course_name": "Attention",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201",
+                "SPS 102"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 317",
+        "course_type": "area",
+        "course_name": "Learning",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201",
+                "SPS 102"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 322",
+        "course_type": "area",
+        "course_name": "Lifespan Psychological Science",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201",
+                "SPS 102"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 323",
+        "course_type": "area",
+        "course_name": "Human Bonding",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201",
+                "SPS 102"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 325",
+        "course_type": "area",
+        "course_name": "Infant Development",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "SPS 102",
+                [
+                    "PSY 320",
+                    "PSY 201"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 330",
+        "course_type": "area",
+        "course_name": "Individual Differences",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 341",
+        "course_type": "area",
+        "course_name": "Applied Social Psychology",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201",
+                "SPS 102"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 08:40-11:30 FASS G052"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PSY 343",
+        "course_type": "area",
+        "course_name": "Relationship Science",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201",
+                "SPS 102"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 344",
+        "course_type": "area",
+        "course_name": "Group Processes",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201",
+                "SPS 102"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 362",
+        "course_type": "area",
+        "course_name": "Clinical Applications of Psychology",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201",
+                "SPS 102"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 363",
+        "course_type": "area",
+        "course_name": "Individual Differences",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201",
+                "SPS 102"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 364",
+        "course_type": "area",
+        "course_name": "Clinical Interviewing",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201",
+                "SPS 102",
+                [
+                    "PSY 360",
+                    "PSY 362",
+                    "PSY 365"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 365",
+        "course_type": "area",
+        "course_name": "Family and Couple Therapy",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 368",
+        "course_type": "area",
+        "course_name": "Adolescent Development and Mental Health",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201",
+                "SPS 102"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 398",
+        "course_type": "area",
+        "course_name": "Independent Study I",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201",
+                "SPS 102",
+                "PSY 202"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 399",
+        "course_type": "area",
+        "course_name": "Independent Study II",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201",
+                "SPS 102",
+                "PSY 202"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "A",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "B",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "C",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "D",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "E",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "F",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "G",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "H",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "I",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "J",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PSY 403",
+        "course_type": "area",
+        "course_name": "Advanced Research in Psychology",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201",
+                "PSY 202"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 405",
+        "course_type": "area",
+        "course_name": "Culture and Cognition",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 407",
+        "course_type": "area",
+        "course_name": "EEG Methods and Analyses",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "CS 201",
+                    "CS 210",
+                    "PSY 202"
+                ]
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 10:40-12:30 FENS G025",
+                        "Thu 08:40-09:30 FENS G025"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PSY 410",
+        "course_type": "area",
+        "course_name": "Advanced Topics in Social and Cognitive Psychology",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 411",
+        "course_type": "area",
+        "course_name": "Cognition, Emotion and Psychopathology",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "PSY 310",
+                    "PSY 311"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 412",
+        "course_type": "area",
+        "course_name": "Visual Cognition",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 14:40-16:30 FASS G050",
+                        "Thu 10:40-11:30 FASS G050"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PSY 414",
+        "course_type": "area",
+        "course_name": "Selected topics in Language and Communication",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 314"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 415",
+        "course_type": "area",
+        "course_name": "Seminar in Memory and Attention",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 08:40-09:30 FASS 1081",
+                        "Thu 14:40-16:30 FMAN G041"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PSY 416",
+        "course_type": "area",
+        "course_name": "Culture and Cognition",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201",
+                "PSY 310"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 421",
+        "course_type": "area",
+        "course_name": "Cognitive Development",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 320"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 08:40-10:30 FMAN G042",
+                        "Wed 08:40-09:30 FMAN G065"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PSY 422",
+        "course_type": "area",
+        "course_name": "Social Development",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 320"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 423",
+        "course_type": "area",
+        "course_name": "Human Bonding",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 424",
+        "course_type": "area",
+        "course_name": "Language Development in Infancy and Childhood",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 320"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 433",
+        "course_type": "area",
+        "course_name": "Human Bonding",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 440",
+        "course_type": "area",
+        "course_name": "Topics in Psychology in the Public Interest",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 442",
+        "course_type": "area",
+        "course_name": "Social Cognition",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 340"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 444",
+        "course_type": "area",
+        "course_name": "Intergroup Relationships",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 14:40-15:30 FASS G056",
+                        "Tue 12:40-14:30 FASS 1081"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PSY 445",
+        "course_type": "area",
+        "course_name": "Selected Topics in Social Psychology",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 340"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 450",
+        "course_type": "area",
+        "course_name": "Selected Topics in Neuroscience",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 350"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 464",
+        "course_type": "area",
+        "course_name": "Selected Topics in Applied Psychology",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 467",
+        "course_type": "area",
+        "course_name": "Clinical Insights from Basic Psychological Science",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 469",
+        "course_type": "area",
+        "course_name": "Foundations of Infant Mental Heath",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201",
+                "SPS 102"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 12:40-14:30 FASS G050",
+                        "Fri 09:40-10:30 FASS G050"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PSY 480",
+        "course_type": "area",
+        "course_name": "Psychology in the Public Interest",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "SPS 102"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 481",
+        "course_type": "area",
+        "course_name": "Selected Topics in Applied Psychology",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 340"
+            ],
+            "general": []
+        },
+        "sections": []
+    }
+]

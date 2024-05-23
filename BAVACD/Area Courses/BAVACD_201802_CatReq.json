@@ -1,0 +1,1991 @@
+[
+    {
+        "course_code": "CS 201",
+        "course_type": "area",
+        "course_name": "Programming Fundamentals",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "IF 100"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "A",
+                "times": [
+                    [
+                        "Mon 12:40-14:30 FMAN 1099",
+                        "Wed 12:40-13:30 FMAN 1099"
+                    ]
+                ]
+            },
+            {
+                "section": "B",
+                "times": [
+                    [
+                        "Mon 09:40-11:30 FASS G062",
+                        "Wed 13:40-14:30 FASS G062"
+                    ]
+                ]
+            },
+            {
+                "section": "A1",
+                "times": [
+                    [
+                        "Thu 10:40-12:30 FASS G052"
+                    ]
+                ]
+            },
+            {
+                "section": "A2",
+                "times": [
+                    [
+                        "Thu 10:40-12:30 FENS L029"
+                    ]
+                ]
+            },
+            {
+                "section": "A3",
+                "times": [
+                    [
+                        "Thu 10:40-12:30 FENS L027"
+                    ]
+                ]
+            },
+            {
+                "section": "A4",
+                "times": [
+                    [
+                        "Thu 10:40-12:30 FASS G049"
+                    ]
+                ]
+            },
+            {
+                "section": "B1",
+                "times": [
+                    [
+                        "Thu 14:40-16:30 FENS L027"
+                    ]
+                ]
+            },
+            {
+                "section": "B2",
+                "times": [
+                    [
+                        "Thu 14:40-16:30 FENS L029"
+                    ]
+                ]
+            },
+            {
+                "section": "B3",
+                "times": [
+                    [
+                        "Thu 14:40-16:30 FASS G049"
+                    ]
+                ]
+            },
+            {
+                "section": "B4",
+                "times": [
+                    [
+                        "Thu 14:40-16:30 FASS G052"
+                    ]
+                ]
+            },
+            {
+                "section": "C1",
+                "times": [
+                    [
+                        "Fri 10:40-12:30 FENS L027"
+                    ]
+                ]
+            },
+            {
+                "section": "C2",
+                "times": [
+                    [
+                        "Fri 10:40-12:30 FENS L029"
+                    ]
+                ]
+            },
+            {
+                "section": "C3",
+                "times": [
+                    [
+                        "Fri 10:40-12:30 FASS G056"
+                    ]
+                ]
+            },
+            {
+                "section": "C4",
+                "times": [
+                    [
+                        "Fri 10:40-12:30 FASS G052"
+                    ]
+                ]
+            },
+            {
+                "section": "D1",
+                "times": [
+                    [
+                        "Fri 15:40-17:30 FENS L029"
+                    ]
+                ]
+            },
+            {
+                "section": "D2",
+                "times": [
+                    [
+                        "Fri 15:40-17:30 FASS 2031"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CULT 201",
+        "course_type": "area",
+        "course_name": "Theory and Practice in Cultural Studies",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 222",
+        "course_type": "area",
+        "course_name": "Popular Culture and Everyday Life",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 223",
+        "course_type": "area",
+        "course_name": "Consumption, Food and Culture",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 225",
+        "course_type": "area",
+        "course_name": "Advertising and Culture",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 230",
+        "course_type": "area",
+        "course_name": "Introduction to Media Studies",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 299",
+        "course_type": "area",
+        "course_name": "Topics in Turkish Cultural Studies",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 322",
+        "course_type": "area",
+        "course_name": "Youth Culture",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 324",
+        "course_type": "area",
+        "course_name": "Humans and Clones",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 325",
+        "course_type": "area",
+        "course_name": "Media Worlds",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 327",
+        "course_type": "area",
+        "course_name": "Postcolonial Theory and Its Discontents",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "CULT 201",
+                    "SOC 201"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 341",
+        "course_type": "area",
+        "course_name": "Myths of Gender: Cultural Theories about Women and Men",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 342",
+        "course_type": "area",
+        "course_name": "Gender and Nationalism",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 343",
+        "course_type": "area",
+        "course_name": "Topics In Gender & Sexuality Studies",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 355",
+        "course_type": "area",
+        "course_name": "Urban Spaces and Cultures",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 15:40-18:30 FASS G025"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CULT 360",
+        "course_type": "area",
+        "course_name": "Consumer Society and Cultures",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 361",
+        "course_type": "area",
+        "course_name": "Oral History",
+        "ects_credits": 7,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 362",
+        "course_type": "area",
+        "course_name": "Memory Studies",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 364",
+        "course_type": "area",
+        "course_name": "Topics in Memory Studies",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 368",
+        "course_type": "area",
+        "course_name": "Globalization and Health Inequalities",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 370",
+        "course_type": "area",
+        "course_name": "Everyday Life",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 384",
+        "course_type": "area",
+        "course_name": "Political Ecology and Society",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 16:40-19:30 FASS G052"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CULT 391",
+        "course_type": "area",
+        "course_name": "Turkish Culture: Critical Perspectives",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 399",
+        "course_type": "area",
+        "course_name": "Independent Study",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CULT 420",
+        "course_type": "area",
+        "course_name": "Science, Technology and Culture",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 421",
+        "course_type": "area",
+        "course_name": "Digital Humanities",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 432",
+        "course_type": "area",
+        "course_name": "Modernism/Postmodernism",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "HUM 201",
+                    "CULT 201"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 434",
+        "course_type": "area",
+        "course_name": "Advanced Cultural Theory",
+        "ects_credits": 7,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "CULT 201",
+                    "SOC 201"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 435",
+        "course_type": "area",
+        "course_name": "Representations of Violence",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 441",
+        "course_type": "area",
+        "course_name": "Gender in the Middle East",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 442",
+        "course_type": "area",
+        "course_name": "Gendered Memories of War and Political Violence",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 443",
+        "course_type": "area",
+        "course_name": "Gender, War and Peace",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 444",
+        "course_type": "area",
+        "course_name": "Gender and Sexuality in Turkey",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 446",
+        "course_type": "area",
+        "course_name": "Gender and Media",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 449",
+        "course_type": "area",
+        "course_name": "Harem Fictions: From Montesquieu to Mernissi",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 451",
+        "course_type": "area",
+        "course_name": "Nation, History and Culture in Museums",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "CULT 201",
+                    "CULT 291"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 452",
+        "course_type": "area",
+        "course_name": "Myth, Art and Politics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 453",
+        "course_type": "area",
+        "course_name": "Spaces of Migration",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 15:40-16:30 FASS 1079",
+                        "Thu 10:40-12:30 FASS 1098"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CULT 454",
+        "course_type": "area",
+        "course_name": "Cultures of Migration",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 460",
+        "course_type": "area",
+        "course_name": "Cultures and Politics of Law Reform",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "CULT 201",
+                    "SOC 201"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 462",
+        "course_type": "area",
+        "course_name": "Postsocialism",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 491",
+        "course_type": "area",
+        "course_name": "Advanced Topics in Cultural Studies I",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 492",
+        "course_type": "area",
+        "course_name": "Advanced Topics in Cultural Studies II",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CULT 493",
+        "course_type": "area",
+        "course_name": "Thematic Approaches to Contemporary Turkish Culture",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FILM 231",
+        "course_type": "area",
+        "course_name": "Introduction to Film Studies",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FILM 331",
+        "course_type": "area",
+        "course_name": "Approaches to Film Studies",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FILM 335",
+        "course_type": "area",
+        "course_name": "Critical Perspectives on Turkish Cinema",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FILM 345",
+        "course_type": "area",
+        "course_name": "International Cinemas",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FILM 390",
+        "course_type": "area",
+        "course_name": "Topics in Film Studies",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FILM 424",
+        "course_type": "area",
+        "course_name": "Anthropology and Film",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FILM 432",
+        "course_type": "area",
+        "course_name": "Vision, Representation and Cinema",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FILM 435",
+        "course_type": "area",
+        "course_name": "Documentary: Context and Practice-I",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FILM 436",
+        "course_type": "area",
+        "course_name": "Documentary Context and Practice-II",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "FILM 435"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FILM 452",
+        "course_type": "area",
+        "course_name": "Psychoanalysis and Film",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "HART 213",
+        "course_type": "area",
+        "course_name": "History of Photography and Moving Image",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "HART 234",
+        "course_type": "area",
+        "course_name": "Classical Mythology in Art",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 15:40-17:30 FASS 1101",
+                        "Thu 12:40-13:30 FASS 1101"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HART 312",
+        "course_type": "area",
+        "course_name": "Renaissance Visuality II (Cinquecento)",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "HUM 202"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "HART 320",
+        "course_type": "area",
+        "course_name": "Women Artists",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "HUM 202",
+                    "HUM 212"
+                ]
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 10:40-13:30 FASS 1050"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HART 323",
+        "course_type": "area",
+        "course_name": "Art and Power",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "SPS 101",
+                "HUM 202"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "HART 330",
+        "course_type": "area",
+        "course_name": "The Imaginary of the Middle Ages in Modern Art and Popular Culture",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "SPS 101",
+                "SPS 102",
+                "HUM 201",
+                "HUM 202"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "HART 333",
+        "course_type": "area",
+        "course_name": "Heavenly Spires: Introduction to Medieval European Art and Architecture",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "HART 334",
+        "course_type": "area",
+        "course_name": "Roman Art in Context",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "HART 424",
+        "course_type": "area",
+        "course_name": "Art Project at the Museum",
+        "ects_credits": 6,
+        "su_credits": 1,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "HUM 202",
+                    "HUM 212"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "HART 425",
+        "course_type": "area",
+        "course_name": "Art & History at the Museum",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "HART 426",
+        "course_type": "area",
+        "course_name": "Leonardo and Michelangelo: Heroes of the Renaissance",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "SPS 101",
+                "SPS 102",
+                "HUM 202"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "HART 431",
+        "course_type": "area",
+        "course_name": "The Dome of Gold : The Art of the Byzantine Empire",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "HART 432",
+        "course_type": "area",
+        "course_name": "Post-1945 American Art",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "HART 434",
+        "course_type": "area",
+        "course_name": "Art and Architecture of the Medieval Mediterranean",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "SPS 101",
+                "SPS 102"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "HART 444",
+        "course_type": "area",
+        "course_name": "Designing the Nation. Art and Nationalism",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "SPS 101",
+                "SPS 102",
+                [
+                    "HUM 202",
+                    "HUM 212"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "LIT 212",
+        "course_type": "area",
+        "course_name": "Analyzing Text and Context",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 11:40-12:30 FENS G025",
+                        "Wed 13:40-15:30 FENS G025"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LIT 252",
+        "course_type": "area",
+        "course_name": "Topics in World Literature",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "LIT 290",
+        "course_type": "area",
+        "course_name": "Topics in Turkish Literature",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "LIT 320",
+        "course_type": "area",
+        "course_name": "Popular Literature",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "LIT 324",
+        "course_type": "area",
+        "course_name": "Postcolonial Theory and Literatures",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "LIT 354",
+        "course_type": "area",
+        "course_name": "Literature and Immigration",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "LIT 359",
+        "course_type": "area",
+        "course_name": "Literature, Ideology and  Resistance",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "LIT 370",
+        "course_type": "area",
+        "course_name": "Imagining the City",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "LIT 371",
+        "course_type": "area",
+        "course_name": "Creative Writing",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "LIT 394",
+        "course_type": "area",
+        "course_name": "Modern Turkish Literature",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "LIT 430",
+        "course_type": "area",
+        "course_name": "Auto/biography",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "LIT 434",
+        "course_type": "area",
+        "course_name": "Literary Theory",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "LIT 440",
+        "course_type": "area",
+        "course_name": "Literature and Psychoanalysis",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 12:40-14:30 FENS G025",
+                        "Wed 12:40-13:30 FENS G025"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LIT 445",
+        "course_type": "area",
+        "course_name": "Gender and Sexuality in Literature",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "LIT 452",
+        "course_type": "area",
+        "course_name": "Seminar in World Literature",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "LIT 492",
+        "course_type": "area",
+        "course_name": "Advanced Topics in Turkish Literature",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PHIL 322",
+        "course_type": "area",
+        "course_name": "Philosophy of Art",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 405",
+        "course_type": "area",
+        "course_name": "Culture and Cognition",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 416",
+        "course_type": "area",
+        "course_name": "Culture and Cognition",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201",
+                "PSY 310"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 228",
+        "course_type": "area",
+        "course_name": "Introduction to Photography",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 303",
+        "course_type": "area",
+        "course_name": "Design Studio I",
+        "ects_credits": 7,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "VA 201",
+                "VA 203"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 311",
+        "course_type": "area",
+        "course_name": "Art and Design Practices in the City",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Fri 15:40-18:30"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "VA 315",
+        "course_type": "area",
+        "course_name": "Visual Culture",
+        "ects_credits": 7,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 321",
+        "course_type": "area",
+        "course_name": "Fine Art Practice",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "VA 203"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 322",
+        "course_type": "area",
+        "course_name": "Digital Art Practice",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "VA 201"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 327",
+        "course_type": "area",
+        "course_name": "Studio Photography and Lighting Techniques",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 329",
+        "course_type": "area",
+        "course_name": "Photography and Expression",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "VA 328"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 14:40-17:30 Art and Research Center G010"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "VA 333",
+        "course_type": "area",
+        "course_name": "Content Creation and Design for Websites",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 16:40-19:30 FASS 1014"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "VA 336",
+        "course_type": "area",
+        "course_name": "Interactive Sound",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 345",
+        "course_type": "area",
+        "course_name": "Creative Coding",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 399",
+        "course_type": "area",
+        "course_name": "Independent Study",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "A",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "B",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "C",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "D",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "E",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "F",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "G",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "H",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "I",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "J",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "VA 403",
+        "course_type": "area",
+        "course_name": "Design Studio III",
+        "ects_credits": 7,
+        "su_credits": 4,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "VA 201",
+                "VA 203"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 404",
+        "course_type": "area",
+        "course_name": "Design Studio IV",
+        "ects_credits": 7,
+        "su_credits": 4,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "VA 401",
+                    "VA 403"
+                ]
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 13:40-16:30 Art and Research Center 1010"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "VA 416",
+        "course_type": "area",
+        "course_name": "History of Digital and Electronic Arts",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 424",
+        "course_type": "area",
+        "course_name": "Advanced Topics in Typography",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "VA 234"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 437",
+        "course_type": "area",
+        "course_name": "Experimental Film and Video",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "VA 431"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 439",
+        "course_type": "area",
+        "course_name": "Envisioning Information",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "VA 201"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Thu 12:40-15:30 Art and Research Center 1010"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "VA 441",
+        "course_type": "area",
+        "course_name": "Visiting Artist Studio",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 442",
+        "course_type": "area",
+        "course_name": "Visiting Designer Studio",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 445",
+        "course_type": "area",
+        "course_name": "Issues in Contemporary Performance Art",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 446",
+        "course_type": "area",
+        "course_name": "History and Aesthetics of Electroacoustic Music",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 450",
+        "course_type": "area",
+        "course_name": "Construction/Deconstruction in 3 Dimensional Space",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 453",
+        "course_type": "area",
+        "course_name": "Design Thinking",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 455",
+        "course_type": "area",
+        "course_name": "Physical Computing",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 12:40-15:30 FASS 1014"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "VA 461",
+        "course_type": "area",
+        "course_name": "Advanced Illustration",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "VA 331"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 481",
+        "course_type": "area",
+        "course_name": "Summer Project I",
+        "ects_credits": 3,
+        "su_credits": 2,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 482",
+        "course_type": "area",
+        "course_name": "Summer Project II",
+        "ects_credits": 3,
+        "su_credits": 2,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 490",
+        "course_type": "area",
+        "course_name": "Professional Practice as a Designer",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 16:40-19:30 Art and Research Center 1010"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "VIS 308",
+        "course_type": "area",
+        "course_name": "The Business of Art",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VIS 310",
+        "course_type": "area",
+        "course_name": "The New Media",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    }
+]

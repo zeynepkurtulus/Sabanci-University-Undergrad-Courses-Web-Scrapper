@@ -1,0 +1,732 @@
+[
+    {
+        "course_code": "ECON 312",
+        "course_type": "area",
+        "course_name": "Behavioral Economics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 321",
+        "course_type": "area",
+        "course_name": "Education Economics and Policy",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 301"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 08:40-11:30 FENS G015"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ECON 322",
+        "course_type": "area",
+        "course_name": "Health Economics and Policy",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 202",
+                "ECON 204"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Thu 13:40-15:30 FASS 1099",
+                        "Fri 15:40-16:30 FASS 1001-1001A"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ECON 323",
+        "course_type": "area",
+        "course_name": "Energy and Environmental Economics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 201",
+                "ECON 204"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 335",
+        "course_type": "area",
+        "course_name": "Economics of Information",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 201",
+                "ECON 204"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 341",
+        "course_type": "area",
+        "course_name": "Corporate Finance",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 204",
+                "ECON 201"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 345",
+        "course_type": "area",
+        "course_name": "International Finance",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 202"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 10:40-12:30 FASS 1099",
+                        "Thu 12:40-13:30 FASS 1099",
+                        "Thu 18:40-19:30 FASS 1001-1001A"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ECON 346",
+        "course_type": "area",
+        "course_name": "Global Finance and Multinational Corporation",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 347",
+        "course_type": "area",
+        "course_name": "Essentials of Project and Infrastructure Finance",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 391",
+        "course_type": "area",
+        "course_name": "Topics in Macroeconomics: Emerging Market Macroeconomics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 202"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 399",
+        "course_type": "area",
+        "course_name": "Independent Study",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "A",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "B",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "C",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "D",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "E",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "F",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "G",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "H",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "I",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "J",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "K",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "L",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "M",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "N",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ECON 400",
+        "course_type": "area",
+        "course_name": "History of Economic Thought",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 202",
+                "ECON 204"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 09:40-10:30 FASS 1098",
+                        "Thu 08:40-10:30 FASS 1098"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ECON 401",
+        "course_type": "area",
+        "course_name": "Applied Econometrics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 301"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 403",
+        "course_type": "area",
+        "course_name": "Economic History",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 202"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 405",
+        "course_type": "area",
+        "course_name": "Law and Economics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 201",
+                "ECON 204"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 407",
+        "course_type": "area",
+        "course_name": "The Political Economy of European Integration",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 340"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 412",
+        "course_type": "area",
+        "course_name": "Competition and Regulation",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 301",
+                "ECON 330"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 414",
+        "course_type": "area",
+        "course_name": "Applied Macroeconomics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 202",
+                "ECON 301"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 420",
+        "course_type": "area",
+        "course_name": "Growth and Development",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 202",
+                "ECON 204"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 422",
+        "course_type": "area",
+        "course_name": "From Plan to Market: Economic Transformation in Eastern Europe",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 204"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 423",
+        "course_type": "area",
+        "course_name": "Economics of the Welfare State",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 424",
+        "course_type": "area",
+        "course_name": "Welfare Economics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 204"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 425",
+        "course_type": "area",
+        "course_name": "Topics in Political Economics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 440",
+        "course_type": "area",
+        "course_name": "Topics in Economics of Globalization and Development",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 340"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 450",
+        "course_type": "area",
+        "course_name": "Microeconomics of Banking",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 204"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 481",
+        "course_type": "area",
+        "course_name": "Advanced Microeconomic Theory I",
+        "ects_credits": 7,
+        "su_credits": 4,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 482",
+        "course_type": "area",
+        "course_name": "Advanced Microeconomic Theory II",
+        "ects_credits": 7,
+        "su_credits": 4,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 483",
+        "course_type": "area",
+        "course_name": "Advanced Macroeconomic Theory I",
+        "ects_credits": 7,
+        "su_credits": 4,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 484",
+        "course_type": "area",
+        "course_name": "Advanced Macroeconomic Theory II",
+        "ects_credits": 7,
+        "su_credits": 4,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 485",
+        "course_type": "area",
+        "course_name": "Advanced Quantitative Methods",
+        "ects_credits": 8,
+        "su_credits": 4,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 486",
+        "course_type": "area",
+        "course_name": "Advanced Econometric Theory",
+        "ects_credits": 7,
+        "su_credits": 4,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 488",
+        "course_type": "area",
+        "course_name": "Matchings and Markets",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 204",
+                "ECON 201"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 13:40-16:30 FASS 2101"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ECON 491",
+        "course_type": "area",
+        "course_name": "Topics in Economic Theory",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 204",
+                "ECON 201"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 492",
+        "course_type": "area",
+        "course_name": "Seminar on the Turkish Economy",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 202",
+                "ECON 204"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 493",
+        "course_type": "area",
+        "course_name": "Understanding Chinese Economy",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 202"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 494",
+        "course_type": "area",
+        "course_name": "Spatial Data Science",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 13:40-14:30 FASS G052",
+                        "Wed 09:40-11:30 FASS G049"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ECON 495",
+        "course_type": "area",
+        "course_name": "Machine Learning for Policy Evaluation",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 202",
+                "ECON 204"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "LAW 401",
+        "course_type": "area",
+        "course_name": "Law, Business and Society",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "SPS 101",
+                "SPS 102"
+            ],
+            "general": []
+        },
+        "sections": []
+    }
+]

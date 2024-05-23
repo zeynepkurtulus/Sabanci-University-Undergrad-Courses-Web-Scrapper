@@ -1,0 +1,162 @@
+[
+    {
+        "course_code": "ECON 310",
+        "course_type": "core",
+        "course_name": "Game Theory",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 204",
+                "ECON 201"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 16:40-19:30 FASS 1089",
+                        "Mon 16:40-17:30 FASS 1099"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ECON 320",
+        "course_type": "core",
+        "course_name": "Public Economics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 204",
+                "ECON 202",
+                "ECON 201"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 330",
+        "course_type": "core",
+        "course_name": "Industrial Organization",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 204",
+                "ECON 201",
+                "ECON 301"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 14:40-15:30 FASS G052",
+                        "Thu 14:40-16:30 FASS G025",
+                        "Thu 16:40-17:30 FASS G025"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ECON 340",
+        "course_type": "core",
+        "course_name": "International Economics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 202",
+                "ECON 204"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 350",
+        "course_type": "core",
+        "course_name": "Financial Institutions and Markets",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 201",
+                "ECON 204"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 360",
+        "course_type": "core",
+        "course_name": "Advanced Macroeconomics",
+        "ects_credits": 7,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 202",
+                "ECON 204"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 14:40-16:30 FASS G052",
+                        "Tue 13:40-14:30 FASS G052"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ECON 370",
+        "course_type": "core",
+        "course_name": "Advanced Microeconomics",
+        "ects_credits": 7,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 201",
+                "ECON 204"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 430",
+        "course_type": "core",
+        "course_name": "Labor Economics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 204"
+            ],
+            "general": []
+        },
+        "sections": []
+    }
+]

@@ -1,0 +1,1561 @@
+[
+    {
+        "course_code": "BIO 330",
+        "course_type": "area",
+        "course_name": "Environmental Plant Biology",
+        "ects_credits": 5,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Thu 10:40-12:30 FENS L048",
+                        "Fri 08:40-09:30 FENS G025"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS 210",
+        "course_type": "area",
+        "course_name": "Introduction to Data Science",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "IF 100",
+                "MATH 203"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 10:40-11:30 FENS G077",
+                        "Fri 14:40-16:30 FMAN 1099"
+                    ]
+                ]
+            },
+            {
+                "section": "A",
+                "times": [
+                    [
+                        "Mon 14:40-16:30 FENS G035"
+                    ]
+                ]
+            },
+            {
+                "section": "B",
+                "times": [
+                    [
+                        "Mon 16:40-18:30 FENS G035"
+                    ]
+                ]
+            },
+            {
+                "section": "C",
+                "times": [
+                    [
+                        "Tue 12:40-14:30 FENS G035"
+                    ]
+                ]
+            },
+            {
+                "section": "D",
+                "times": [
+                    [
+                        "Tue 16:40-18:30 FENS G032"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS 303",
+        "course_type": "area",
+        "course_name": "Logic and Digital System Design",
+        "ects_credits": 7,
+        "su_credits": 4,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 08:40-09:30 FENS G077",
+                        "Thu 12:40-14:30 FENS G077"
+                    ]
+                ]
+            },
+            {
+                "section": "A1",
+                "times": [
+                    [
+                        "Tue 10:40-12:30 FENS G055"
+                    ]
+                ]
+            },
+            {
+                "section": "A2",
+                "times": [
+                    [
+                        "Tue 10:40-12:30 FENS G059"
+                    ]
+                ]
+            },
+            {
+                "section": "A3",
+                "times": [
+                    [
+                        "Tue 10:40-12:30 FENS G032"
+                    ]
+                ]
+            },
+            {
+                "section": "B1",
+                "times": [
+                    [
+                        "Tue 12:40-14:30 FENS G055"
+                    ]
+                ]
+            },
+            {
+                "section": "B2",
+                "times": [
+                    [
+                        "Tue 12:40-14:30 FENS G059"
+                    ]
+                ]
+            },
+            {
+                "section": "B3",
+                "times": [
+                    [
+                        "Tue 12:40-14:30 FMAN L014"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS 305",
+        "course_type": "area",
+        "course_name": "Programming Languages",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "CS 204"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CS 308",
+        "course_type": "area",
+        "course_name": "Software Engineering",
+        "ects_credits": 7,
+        "su_credits": 4,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "CS 204"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 13:40-16:30 UC G030",
+                        "Fri 16:40-19:30 UC G030"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS 310",
+        "course_type": "area",
+        "course_name": "Mobile Application Development",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "CS 204"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 09:40-10:30 FASS G062",
+                        "Wed 14:40-16:30 FASS G062"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS 400",
+        "course_type": "area",
+        "course_name": "Logic in Computer Science",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "MATH 204"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CS 401",
+        "course_type": "area",
+        "course_name": "Computer Architectures",
+        "ects_credits": 6,
+        "su_credits": 4,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "CS 303"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 09:40-11:30 FENS G035",
+                        "Thu 10:40-11:30 FENS G035",
+                        "Thu 11:40-13:30 FENS G035"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS 402",
+        "course_type": "area",
+        "course_name": "Compiler Design",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "CS 305"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CS 403",
+        "course_type": "area",
+        "course_name": "Distributed Systems",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "CS 307"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CS 405",
+        "course_type": "area",
+        "course_name": "Computer Graphics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "CS 300"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CS 411",
+        "course_type": "area",
+        "course_name": "Cryptography",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "MATH 204"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CS 412",
+        "course_type": "area",
+        "course_name": "Machine Learning",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "MATH 201",
+                "MATH 203"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 16:40-17:30 FASS G062",
+                        "Tue 15:40-17:30 FASS G062",
+                        "Mon 17:40-19:30 FASS G062"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS 419",
+        "course_type": "area",
+        "course_name": "Digital Image and Video Analysis",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CS 445",
+        "course_type": "area",
+        "course_name": "Natural Language Processing",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "CS 204",
+                "CS 210"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CS 48004",
+        "course_type": "area",
+        "course_name": "Special Topics in CS: Agile Software Development",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "CS 308"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CS 48006",
+        "course_type": "area",
+        "course_name": "Special Topics in CS: Decentralized Finance",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "CS 48001",
+                    "CS 438"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CS 48007",
+        "course_type": "area",
+        "course_name": "Special Topics in CS: Internet of Things Sensing System",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "CS 204"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "EE 302",
+        "course_type": "area",
+        "course_name": "Digital Integrated Circuits",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "EL 202",
+                    "EE 202"
+                ]
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 13:40-15:30 FASS 1099",
+                        "Wed 08:40-09:30 FENS L030",
+                        "Fri 12:40-14:30 FMAN L014"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE 303",
+        "course_type": "area",
+        "course_name": "Analog Integrated Circuits",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "EL 202",
+                    "EE 202"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "EE 307",
+        "course_type": "area",
+        "course_name": "Semiconductor Physics and Devices",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "ENS 203"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "EE 311",
+        "course_type": "area",
+        "course_name": "Introduction to Signal Processing and Information Systems",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "ENS 211"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "EE 312",
+        "course_type": "area",
+        "course_name": "Discrete-Time Signals and Systems",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "ENS 211"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 12:40-14:30 FENS L047",
+                        "Wed 11:40-12:30 FENS L027",
+                        "Wed 16:40-18:30 FENS L029"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE 404",
+        "course_type": "area",
+        "course_name": "Introduction to Microelectromechanical Systems",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "ENS 203"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 11:40-13:30 FENS L035",
+                        "Wed 10:40-11:30 FENS L062",
+                        "Thu 16:40-18:30 FASS G022"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE 408",
+        "course_type": "area",
+        "course_name": "Modeling of Semiconductor Devices",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "EL 202",
+                    "EE 202"
+                ],
+                [
+                    "EL 204",
+                    "EE 307"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "EE 410",
+        "course_type": "area",
+        "course_name": "Information and Coding Theory",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "MATH 201",
+                "MATH 203"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 08:40-10:30 FENS L035",
+                        "Thu 12:40-13:30 FASS 2023"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE 473",
+        "course_type": "area",
+        "course_name": "Biomedical Instrumentation",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "ENS 203"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "EE 48001",
+        "course_type": "area",
+        "course_name": "Special Topics in EE: Nanoscale Integrated Circuit Design",
+        "ects_credits": 10,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "EE 48002",
+        "course_type": "area",
+        "course_name": "Special Topics in EE: Sensor Networks",
+        "ects_credits": 10,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "EE 48004",
+        "course_type": "area",
+        "course_name": "Special Topics in EE: Power systems analysis",
+        "ects_credits": 10,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ENRG 220",
+        "course_type": "area",
+        "course_name": "World Energy Outlook: The Coming Year",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ENS 222",
+        "course_type": "area",
+        "course_name": "Biological Circuits and Molecular Machines",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ENS 409",
+        "course_type": "area",
+        "course_name": "Numerical Analysis",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "CS 201"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 10:40-11:30 FENS L047",
+                        "Tue 11:40-13:30 FENS 2019"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ENS 416",
+        "course_type": "area",
+        "course_name": "Introduction to Scanning Probe Microscopy",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ENS 4803",
+        "course_type": "area",
+        "course_name": "Special Topics in FENS: Nanobiotechnology",
+        "ects_credits": 7,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "IE 302",
+        "course_type": "area",
+        "course_name": "Stochastic Models in Operations Research",
+        "ects_credits": 7,
+        "su_credits": 4,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "MATH 203",
+                [
+                    "MS 301",
+                    "IE 301",
+                    "IE 311"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "IE 305",
+        "course_type": "area",
+        "course_name": "Simulation",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "MATH 306"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 10:40-11:30 FENS L045",
+                        "Thu 12:40-14:30 FENS L045"
+                    ]
+                ]
+            },
+            {
+                "section": "A",
+                "times": [
+                    [
+                        "Fri 08:40-10:30 FENS G055"
+                    ]
+                ]
+            },
+            {
+                "section": "B",
+                "times": [
+                    [
+                        "Fri 10:40-12:30 FENS G055"
+                    ]
+                ]
+            },
+            {
+                "section": "C",
+                "times": [
+                    [
+                        "Fri 14:40-16:30 FMAN L014"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE 311",
+        "course_type": "area",
+        "course_name": "Operations Research I",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "MATH 201",
+                "ENS 208"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "A",
+                "times": [
+                    [
+                        "Tue 08:40-09:30 FENS G032",
+                        "Thu 08:40-10:30 FENS L045"
+                    ]
+                ]
+            },
+            {
+                "section": "B",
+                "times": [
+                    [
+                        "Tue 09:40-10:30 FENS G032",
+                        "Thu 14:40-16:30 FENS G032"
+                    ]
+                ]
+            },
+            {
+                "section": "A1",
+                "times": [
+                    [
+                        "Fri 14:40-16:30 FENS G032"
+                    ]
+                ]
+            },
+            {
+                "section": "A2",
+                "times": [
+                    [
+                        "Fri 14:40-16:30 FMAN G013-14"
+                    ]
+                ]
+            },
+            {
+                "section": "B2",
+                "times": [
+                    [
+                        "Fri 16:40-18:30 FASS G022"
+                    ]
+                ]
+            },
+            {
+                "section": "B3",
+                "times": [
+                    [
+                        "Fri 16:40-18:30 FASS G056"
+                    ]
+                ]
+            },
+            {
+                "section": "C",
+                "times": [
+                    [
+                        "Fri 16:40-18:30 FENS G035"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE 313",
+        "course_type": "area",
+        "course_name": "Operations Research III",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "IE 305"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 10:40-11:30 FASS G062",
+                        "Thu 12:40-14:30 FASS G062"
+                    ]
+                ]
+            },
+            {
+                "section": "A",
+                "times": [
+                    [
+                        "Mon 13:40-14:30 FENS L065"
+                    ]
+                ]
+            },
+            {
+                "section": "B",
+                "times": [
+                    [
+                        "Mon 14:40-15:30 FENS L065"
+                    ]
+                ]
+            },
+            {
+                "section": "C",
+                "times": [
+                    [
+                        "Mon 15:40-16:30 FENS L065"
+                    ]
+                ]
+            },
+            {
+                "section": "D",
+                "times": [
+                    [
+                        "Mon 16:40-17:30 FENS L065"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE 415",
+        "course_type": "area",
+        "course_name": "Decision Support Systems",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "CS 201",
+                "IE 311"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "IE 471",
+        "course_type": "area",
+        "course_name": "Supply Chain Practice",
+        "ects_credits": 5,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "IE 472",
+        "course_type": "area",
+        "course_name": "Strategic Decision Making Practice",
+        "ects_credits": 5,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "IE 48002",
+        "course_type": "area",
+        "course_name": "Special Topics in IE:Advanced statistics with R",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "MATH 306"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MATH 201",
+        "course_type": "area",
+        "course_name": "Linear Algebra",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 08:40-09:30 FMAN 1099",
+                        "Thu 08:40-10:30 FMAN 1099"
+                    ]
+                ]
+            },
+            {
+                "section": "A1",
+                "times": [
+                    [
+                        "Thu 15:40-16:30 FASS 1099"
+                    ]
+                ]
+            },
+            {
+                "section": "A2",
+                "times": [
+                    [
+                        "Thu 15:40-16:30 FASS 1101"
+                    ]
+                ]
+            },
+            {
+                "section": "A3",
+                "times": [
+                    [
+                        "Thu 15:40-16:30 FENS G029"
+                    ]
+                ]
+            },
+            {
+                "section": "A4",
+                "times": [
+                    [
+                        "Thu 15:40-16:30 FENS L063"
+                    ]
+                ]
+            },
+            {
+                "section": "B1",
+                "times": [
+                    [
+                        "Thu 16:40-17:30 FENS L062"
+                    ]
+                ]
+            },
+            {
+                "section": "B2",
+                "times": [
+                    [
+                        "Thu 16:40-17:30 FENS L063"
+                    ]
+                ]
+            },
+            {
+                "section": "B3",
+                "times": [
+                    [
+                        "Thu 16:40-17:30 FASS 1099"
+                    ]
+                ]
+            },
+            {
+                "section": "B4",
+                "times": [
+                    [
+                        "Thu 16:40-17:30 FASS 1101"
+                    ]
+                ]
+            },
+            {
+                "section": "C1",
+                "times": [
+                    [
+                        "Thu 17:40-18:30 FENS L062"
+                    ]
+                ]
+            },
+            {
+                "section": "C2",
+                "times": [
+                    [
+                        "Thu 17:40-18:30 FENS L063"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MATH 206",
+        "course_type": "area",
+        "course_name": "Vector Calculus",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "MATH 102"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MATH 301",
+        "course_type": "area",
+        "course_name": "Introduction to Mathematical Analysis",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MATH 318",
+        "course_type": "area",
+        "course_name": "Introduction to Combinatorics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "MATH 201"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MATH 322",
+        "course_type": "area",
+        "course_name": "Partial Differential Equations",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "MATH 202"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MAT 401",
+        "course_type": "area",
+        "course_name": "Surface Chemistry",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "NS 218"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MAT 404",
+        "course_type": "area",
+        "course_name": "Polymer Physics",
+        "ects_credits": 5,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "ENS 205"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MAT 406",
+        "course_type": "area",
+        "course_name": "Nanoengineered Systems Fabrication",
+        "ects_credits": 5,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "NS 218"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 11:40-14:30 FASS 2031"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MAT 48000",
+        "course_type": "area",
+        "course_name": "Special Topics in Materials Science and Nanoengineering: Adhesion Science and Engineering",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ME 301",
+        "course_type": "area",
+        "course_name": "Mechanical Systems I",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "ENS 204"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ME 302",
+        "course_type": "area",
+        "course_name": "Mechanical Systems II",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Thu 10:40-11:30 FENS L030",
+                        "Fri 12:40-14:30 FENS L048",
+                        "Thu 17:40-19:30 FENS L061",
+                        "Wed 17:40-19:30 FENS L063"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ME 307",
+        "course_type": "area",
+        "course_name": "Fluid Dynamics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "NS 101",
+                "MATH 102"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ME 403",
+        "course_type": "area",
+        "course_name": "Introduction to Robotics",
+        "ects_credits": 7,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "ENS 206"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 12:40-13:30 FENS L029",
+                        "Wed 11:40-13:30 FENS G015",
+                        "Thu 14:40-16:30 FENS L061",
+                        "Wed 15:40-17:30 FENS L067"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ME 409",
+        "course_type": "area",
+        "course_name": "Foundations of Microsystems",
+        "ects_credits": 7,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ME 415",
+        "course_type": "area",
+        "course_name": "Computational Analysis and Simulation",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "MATH 201",
+                    "MATH 202"
+                ]
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 13:40-14:30 FENS L030",
+                        "Wed 08:40-10:30 FASS 1101",
+                        "Mon 17:40-19:30 FENS L058"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ME 435",
+        "course_type": "area",
+        "course_name": "Scaling in Engineering Systems",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "NS 200",
+        "course_type": "area",
+        "course_name": "Einstein's Relativity",
+        "ects_credits": 5,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "NS 206",
+        "course_type": "area",
+        "course_name": "What is There in the Universe: Inside the Milky Way?",
+        "ects_credits": 5,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "NS 101"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "NS 209",
+        "course_type": "area",
+        "course_name": "What is there in the Universe: \"Beyond the Milky Way\"",
+        "ects_credits": 5,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "NS 101"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 12:40-14:30 FASS 1076-1078",
+                        "Wed 09:40-10:30 FASS 1076-1078"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "NS 213",
+        "course_type": "area",
+        "course_name": "Doğa Bilimleri ve Mühendislik için Temel Fizik Kavramları",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "NS 101"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "NS 214",
+        "course_type": "area",
+        "course_name": "Oscillations, Waves and Optics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "NS 101"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Thu 13:40-15:30 FASS G006",
+                        "Fri 13:40-14:30 FENS G035"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "NS 222",
+        "course_type": "area",
+        "course_name": "Planetary Systems and Extrasolar Planets",
+        "ects_credits": 5,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "NS 101"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "NS 223",
+        "course_type": "area",
+        "course_name": "Environmental Science",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "NS 224",
+        "course_type": "area",
+        "course_name": "Urban Agriculture",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "NS 48000",
+        "course_type": "area",
+        "course_name": "Special Topics in NS: Astrobiology Fundamentals and Contemporary Research Topics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "CS 210"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PHYS 438",
+        "course_type": "area",
+        "course_name": "Phase Transitions and Renormalization-Group Theory",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PHYS 492",
+        "course_type": "area",
+        "course_name": "Modern Topics in Condensed Matter Physics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "PHYS 302"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 350",
+        "course_type": "area",
+        "course_name": "Introduction to Neuroscience",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "SPS 102",
+                    "NS 102"
+                ]
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 08:40-10:30 FENS 2019",
+                        "Wed 14:40-15:30 FENS 2019"
+                    ]
+                ]
+            }
+        ]
+    }
+]

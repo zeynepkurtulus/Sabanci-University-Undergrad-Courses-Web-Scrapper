@@ -1,0 +1,242 @@
+[
+    {
+        "course_code": "ECON 202",
+        "course_type": "required",
+        "course_name": "Macroeconomics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "A",
+                "times": [
+                    [
+                        "Mon 12:40-14:30 FASS G049",
+                        "Wed 10:40-11:30 FASS G048",
+                        "Fri 11:40-12:30 FASS 1089"
+                    ]
+                ]
+            },
+            {
+                "section": "B",
+                "times": [
+                    [
+                        "Mon 09:40-10:30 FENS L047",
+                        "Wed 14:40-16:30 FASS 1001-1001A",
+                        "Fri 14:40-15:30 FENS L047"
+                    ]
+                ]
+            },
+            {
+                "section": "C",
+                "times": [
+                    [
+                        "Tue 10:40-11:30 FASS G049",
+                        "Thu 12:40-14:30 FASS G049",
+                        "Fri 15:40-16:30 FASS G006"
+                    ]
+                ]
+            },
+            {
+                "section": "D",
+                "times": [
+                    [
+                        "Tue 12:40-14:30 FASS 1101",
+                        "Thu 11:40-12:30 FASS 1101",
+                        "Fri 13:40-14:30 FASS G025"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ECON 204",
+        "course_type": "required",
+        "course_name": "Microeconomics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "A",
+                "times": [
+                    [
+                        "Mon 12:40-14:30 FASS 1097",
+                        "Wed 10:40-11:30 FASS 1097",
+                        "Fri 11:40-12:30 FASS G022"
+                    ]
+                ]
+            },
+            {
+                "section": "B",
+                "times": [
+                    [
+                        "Mon 09:40-10:30 FENS L030",
+                        "Wed 14:40-16:30 FASS 1103",
+                        "Fri 14:40-15:30 FENS L030"
+                    ]
+                ]
+            },
+            {
+                "section": "C",
+                "times": [
+                    [
+                        "Tue 10:40-11:30 FASS 1001-1001A",
+                        "Thu 12:40-14:30 FENS L047",
+                        "Fri 15:40-16:30 FENS L030"
+                    ]
+                ]
+            },
+            {
+                "section": "D",
+                "times": [
+                    [
+                        "Tue 12:40-14:30 FASS 1001-1001A",
+                        "Thu 11:40-12:30 FASS 1103",
+                        "Fri 13:40-14:30 FMAN G060"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ENG 300",
+        "course_type": "required",
+        "course_name": "Professional Communication Skills in English",
+        "ects_credits": 5,
+        "su_credits": 3,
+        "faculty_code": "SL",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "A",
+                "times": [
+                    [
+                        "Wed 09:40-11:30 FMAN G065",
+                        "Thu 10:40-11:30 FMAN G065"
+                    ]
+                ]
+            },
+            {
+                "section": "B",
+                "times": [
+                    [
+                        "Wed 13:40-15:30 FENS L027",
+                        "Thu 12:40-13:30 FENS L067"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MGMT 201",
+        "course_type": "required",
+        "course_name": "Introduction to Management",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 15:40-16:30 FENS L045",
+                        "Wed 12:40-14:30 FENS L045",
+                        "Wed 16:40-17:30 FENS L045"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MGMT 203",
+        "course_type": "required",
+        "course_name": "Introduction to Data Analysis and Research in Business",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "MGMT 201"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 13:40-15:30 FENS L045",
+                        "Wed 11:40-12:30 FENS L045"
+                    ]
+                ]
+            },
+            {
+                "section": "A1",
+                "times": [
+                    [
+                        "Thu 17:40-18:30 FMAN G060"
+                    ]
+                ]
+            },
+            {
+                "section": "A2",
+                "times": [
+                    [
+                        "Thu 17:40-18:30 FMAN L018"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MGMT 300",
+        "course_type": "required",
+        "course_name": "Summer Internship",
+        "ects_credits": 5,
+        "su_credits": 0,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PROJ 303",
+        "course_type": "required",
+        "course_name": "Summer Internship",
+        "ects_credits": 3,
+        "su_credits": 0,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    }
+]

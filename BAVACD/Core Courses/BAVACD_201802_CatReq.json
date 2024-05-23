@@ -1,0 +1,222 @@
+[
+    {
+        "course_code": "CS 450",
+        "course_type": "core",
+        "course_name": "Arts and Computing",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 304",
+        "course_type": "core",
+        "course_name": "Design Studio II",
+        "ects_credits": 7,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "VA 301",
+                    "VA 303"
+                ]
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 13:40-16:30 FASS 1015"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "VA 323",
+        "course_type": "core",
+        "course_name": "Figure Drawing",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "VA 203"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 324",
+        "course_type": "core",
+        "course_name": "Advanced Drawing",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "VA 323"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Thu 10:40-12:30 Art and Research Center 1010",
+                        "Fri 13:40-15:30 Art and Research Center 1010"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "VA 325",
+        "course_type": "core",
+        "course_name": "Interface Design",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 328",
+        "course_type": "core",
+        "course_name": "Digital and Photographic Imaging",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 331",
+        "course_type": "core",
+        "course_name": "Illustration as Communication",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "VA 201",
+                "VA 203"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 335",
+        "course_type": "core",
+        "course_name": "Sound and Image",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 431",
+        "course_type": "core",
+        "course_name": "Videography and Narrative Making",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "VA 203"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 433",
+        "course_type": "core",
+        "course_name": "3D Modelling",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 434",
+        "course_type": "core",
+        "course_name": "3D Animation",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 09:40-12:30 FASS 1014"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "VA 440",
+        "course_type": "core",
+        "course_name": "Motion Graphics and Art",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Thu 09:40-12:30 FASS 1014"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "VA 444",
+        "course_type": "core",
+        "course_name": "Interaction Design",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    }
+]

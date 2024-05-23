@@ -1,0 +1,44 @@
+[
+    {
+        "course_code": "PHIL 300",
+        "course_type": "philosophy",
+        "course_name": "Philosophy of Science",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "SPS 101",
+                "SPS 102"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PHIL 301",
+        "course_type": "philosophy",
+        "course_name": "Philosophy of Social Sciences",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "SPS 101",
+                "SPS 102"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 16:40-18:30 FASS G006",
+                        "Tue 18:40-19:30 FASS G006"
+                    ]
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,512 @@
+[
+    {
+        "course_code": "MATH 203",
+        "course_type": "required",
+        "course_name": "Introduction to Probability",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "MATH 102"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "A",
+                "times": [
+                    [
+                        "Wed 09:40-10:30 FMAN 1099",
+                        "Fri 12:40-14:30 FMAN 1099"
+                    ]
+                ]
+            },
+            {
+                "section": "B",
+                "times": [
+                    [
+                        "Wed 08:40-09:30 FMAN 1099",
+                        "Fri 08:40-10:30 FMAN 1099"
+                    ]
+                ]
+            },
+            {
+                "section": "A1",
+                "times": [
+                    [
+                        "Mon 09:40-10:30 FASS 1097"
+                    ]
+                ]
+            },
+            {
+                "section": "A10",
+                "times": [
+                    [
+                        "Mon 14:40-15:30 FASS G025"
+                    ]
+                ]
+            },
+            {
+                "section": "A11",
+                "times": [
+                    [
+                        "Mon 14:40-15:30 FENS G029"
+                    ]
+                ]
+            },
+            {
+                "section": "A12",
+                "times": [
+                    [
+                        "Mon 14:40-15:30 FENS L029"
+                    ]
+                ]
+            },
+            {
+                "section": "A2",
+                "times": [
+                    [
+                        "Mon 09:40-10:30 FASS 1089"
+                    ]
+                ]
+            },
+            {
+                "section": "A3",
+                "times": [
+                    [
+                        "Mon 09:40-10:30 FASS G025"
+                    ]
+                ]
+            },
+            {
+                "section": "A4",
+                "times": [
+                    [
+                        "Mon 09:40-10:30 FENS L067"
+                    ]
+                ]
+            },
+            {
+                "section": "A5",
+                "times": [
+                    [
+                        "Mon 11:40-12:30 FASS 1098"
+                    ]
+                ]
+            },
+            {
+                "section": "A6",
+                "times": [
+                    [
+                        "Mon 11:40-12:30 FASS 1101"
+                    ]
+                ]
+            },
+            {
+                "section": "A7",
+                "times": [
+                    [
+                        "Mon 11:40-12:30 FENS L062"
+                    ]
+                ]
+            },
+            {
+                "section": "A8",
+                "times": [
+                    [
+                        "Mon 11:40-12:30 FENS L067"
+                    ]
+                ]
+            },
+            {
+                "section": "A9",
+                "times": [
+                    [
+                        "Mon 14:40-15:30 FENS L067"
+                    ]
+                ]
+            },
+            {
+                "section": "B1",
+                "times": [
+                    [
+                        "Tue 10:40-11:30 FENS L048"
+                    ]
+                ]
+            },
+            {
+                "section": "B10",
+                "times": [
+                    [
+                        "Tue 13:40-14:30 FENS L048"
+                    ]
+                ]
+            },
+            {
+                "section": "B11",
+                "times": [
+                    [
+                        "Tue 13:40-14:30 FENS G025"
+                    ]
+                ]
+            },
+            {
+                "section": "B12",
+                "times": [
+                    [
+                        "Tue 13:40-14:30 FENS L061"
+                    ]
+                ]
+            },
+            {
+                "section": "B2",
+                "times": [
+                    [
+                        "Tue 10:40-11:30 FENS G025"
+                    ]
+                ]
+            },
+            {
+                "section": "B3",
+                "times": [
+                    [
+                        "Tue 10:40-11:30 FENS L061"
+                    ]
+                ]
+            },
+            {
+                "section": "B4",
+                "times": [
+                    [
+                        "Tue 10:40-11:30 FENS G015"
+                    ]
+                ]
+            },
+            {
+                "section": "B5",
+                "times": [
+                    [
+                        "Tue 11:40-12:30 FENS L058"
+                    ]
+                ]
+            },
+            {
+                "section": "B6",
+                "times": [
+                    [
+                        "Tue 11:40-12:30 FENS L048"
+                    ]
+                ]
+            },
+            {
+                "section": "B7",
+                "times": [
+                    [
+                        "Tue 11:40-12:30 FENS G025"
+                    ]
+                ]
+            },
+            {
+                "section": "B8",
+                "times": [
+                    [
+                        "Tue 11:40-12:30 FENS L061"
+                    ]
+                ]
+            },
+            {
+                "section": "B9",
+                "times": [
+                    [
+                        "Tue 13:40-14:30 FENS L029"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MATH 306",
+        "course_type": "required",
+        "course_name": "Statistical Modelling",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "MATH 203"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 08:40-09:30 FENS G077",
+                        "Fri 08:40-10:30 FENS G077"
+                    ]
+                ]
+            },
+            {
+                "section": "A",
+                "times": [
+                    [
+                        "Mon 09:40-10:30 FENS L027"
+                    ]
+                ]
+            },
+            {
+                "section": "B",
+                "times": [
+                    [
+                        "Mon 10:40-11:30 FENS L027"
+                    ]
+                ]
+            },
+            {
+                "section": "C",
+                "times": [
+                    [
+                        "Mon 11:40-12:30 FENS L027"
+                    ]
+                ]
+            },
+            {
+                "section": "D",
+                "times": [
+                    [
+                        "Mon 12:40-13:30 FENS L065"
+                    ]
+                ]
+            },
+            {
+                "section": "E",
+                "times": [
+                    [
+                        "Mon 13:40-14:30 FENS L062"
+                    ]
+                ]
+            },
+            {
+                "section": "F",
+                "times": [
+                    [
+                        "Mon 14:40-15:30 FENS L027"
+                    ]
+                ]
+            },
+            {
+                "section": "G",
+                "times": [
+                    [
+                        "Mon 15:40-16:30 FENS L067"
+                    ]
+                ]
+            },
+            {
+                "section": "H",
+                "times": [
+                    [
+                        "Mon 16:40-17:30 FENS L035"
+                    ]
+                ]
+            },
+            {
+                "section": "I",
+                "times": [
+                    [
+                        "Tue 14:40-15:30 FENS L029"
+                    ]
+                ]
+            },
+            {
+                "section": "J",
+                "times": [
+                    [
+                        "Tue 15:40-16:30 FENS L029"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MGMT 203",
+        "course_type": "required",
+        "course_name": "Introduction to Data Analysis and Research in Business",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "MGMT 201"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 13:40-15:30 FENS L045",
+                        "Wed 11:40-12:30 FENS L045"
+                    ]
+                ]
+            },
+            {
+                "section": "A1",
+                "times": [
+                    [
+                        "Thu 17:40-18:30 FMAN G060"
+                    ]
+                ]
+            },
+            {
+                "section": "A2",
+                "times": [
+                    [
+                        "Thu 17:40-18:30 FMAN L018"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PROJ 300",
+        "course_type": "required",
+        "course_name": "Project and Internship",
+        "ects_credits": 3,
+        "su_credits": 0,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSIR 401",
+        "course_type": "required",
+        "course_name": "Research Methods for Political Science and International Relations II",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSIR 311"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 10:40-11:30 FASS 1101",
+                        "Wed 11:40-13:30 FASS 1099"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PSY 201",
+        "course_type": "required",
+        "course_name": "Mind and Behavior",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 09:40-10:30 FENS G077",
+                        "Fri 10:40-12:30 FENS G077"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PSY 202",
+        "course_type": "required",
+        "course_name": "Research Methods and Statistics for Psychology I",
+        "ects_credits": 7,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 300",
+        "course_type": "required",
+        "course_name": "Project and Internship",
+        "ects_credits": 5,
+        "su_credits": 0,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PSY 303",
+        "course_type": "required",
+        "course_name": "Research Methods",
+        "ects_credits": 7,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 304",
+        "course_type": "required",
+        "course_name": "Research Methods and Statistics for Psychology II",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "SPS 102",
+                "PSY 202"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "SPS 311",
+        "course_type": "required",
+        "course_name": "Research Methods I",
+        "ects_credits": 7,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    }
+]

@@ -1,0 +1,1745 @@
+[
+    {
+        "course_code": "ACC 401",
+        "course_type": "area",
+        "course_name": "Intermediate Financial Accounting and Reporting",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "ACC 201"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ACC 402",
+        "course_type": "area",
+        "course_name": "Advanced Issues in Financial Accounting",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "ACC 401"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ACC 403",
+        "course_type": "area",
+        "course_name": "Auditing",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "ACC 201"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ACC 404",
+        "course_type": "area",
+        "course_name": "International Accounting",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "ACC 201"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ACC 405",
+        "course_type": "area",
+        "course_name": "Financial Statement Analysis",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "FIN 301"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ACC 406",
+        "course_type": "area",
+        "course_name": "Intermediate Managerial Accounting",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "ACC 301"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ACC 450",
+        "course_type": "area",
+        "course_name": "Selected Topics in Accounting I",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "ACC 201"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ACC 451",
+        "course_type": "area",
+        "course_name": "Selected Topics in Accounting II",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "ACC 201"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 350",
+        "course_type": "area",
+        "course_name": "Financial Institutions and Markets",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 201",
+                "ECON 204"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 430",
+        "course_type": "area",
+        "course_name": "Labor Economics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 204"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ECON 450",
+        "course_type": "area",
+        "course_name": "Microeconomics of Banking",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "ECON 204"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ENRG 401",
+        "course_type": "area",
+        "course_name": "Energy: Supply Chain, Economics and Geopolitics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 11:40-12:30 FENS G029",
+                        "Thu 14:40-16:30 FENS L062"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "FIN 402",
+        "course_type": "area",
+        "course_name": "Investments",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "FIN 301",
+                    "IE 303"
+                ]
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Thu 12:40-13:30 FMAN G013-14",
+                        "Fri 13:40-15:30 FASS G022"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "FIN 403",
+        "course_type": "area",
+        "course_name": "Derivative Securities",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "FIN 301",
+                    "IE 303"
+                ]
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 09:40-10:30 FASS 1008-1010",
+                        "Wed 09:40-11:30 FASS 1008-1010"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "FIN 404",
+        "course_type": "area",
+        "course_name": "Multinational Corporate Finance",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "FIN 301",
+                    "IE 303"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FIN 405",
+        "course_type": "area",
+        "course_name": "Corporate Mergers & Acquisitions",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "FIN 301",
+                    "IE 303"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FIN 406",
+        "course_type": "area",
+        "course_name": "Behavioral Finance",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "FIN 301",
+                    "IE 303"
+                ]
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 10:40-13:30 FASS 1098"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "FIN 407",
+        "course_type": "area",
+        "course_name": "Entrepreneurship and Venture Capital",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "FIN 301",
+                    "IE 303"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FIN 408",
+        "course_type": "area",
+        "course_name": "Financial Products",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "FIN 301",
+                    "IE 303"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FIN 409",
+        "course_type": "area",
+        "course_name": "Banking and Financial Intermediation",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "FIN 301",
+                    "IE 303"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FIN 410",
+        "course_type": "area",
+        "course_name": "Financial Technologies",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "FIN 301"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FIN 450",
+        "course_type": "area",
+        "course_name": "Selected Topics in Finance I",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "FIN 301",
+                    "IE 303"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FIN 451",
+        "course_type": "area",
+        "course_name": "Selected Topics in Finance II",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "FIN 301",
+                    "IE 303"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "FIN 499",
+        "course_type": "area",
+        "course_name": "Wealth Management",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "FIN 301",
+                    "IE 303"
+                ]
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Thu TBA FMAN G013-14"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE 405",
+        "course_type": "area",
+        "course_name": "Decision Analysis",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "MATH 306"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 11:40-13:30 FENS L045",
+                        "Wed 08:40-09:30 FENS L045"
+                    ]
+                ]
+            },
+            {
+                "section": "A",
+                "times": [
+                    [
+                        "Mon 17:40-18:30 FENS L065"
+                    ]
+                ]
+            },
+            {
+                "section": "B",
+                "times": [
+                    [
+                        "Mon 12:40-13:30 FENS L067"
+                    ]
+                ]
+            },
+            {
+                "section": "C",
+                "times": [
+                    [
+                        "Thu 13:40-14:30 FENS L058"
+                    ]
+                ]
+            },
+            {
+                "section": "D",
+                "times": [
+                    [
+                        "Wed 17:40-18:30 FENS L058"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE 451",
+        "course_type": "area",
+        "course_name": "Data Visualization and Analysis",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "MATH 306"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "IF 333",
+        "course_type": "area",
+        "course_name": "Creativity, Innovation and Entrepreneurship",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "IF 467",
+        "course_type": "area",
+        "course_name": "Decision, Psychology and Brain",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "NS 201",
+                "MATH 203"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "IR 301",
+        "course_type": "area",
+        "course_name": "Globalization and International Relations",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "SPS 101",
+                "SPS 102",
+                "IR 201"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "LAW 403",
+        "course_type": "area",
+        "course_name": "Internartional Business Law",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "SPS 101",
+                "SPS 102"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MGMT 213",
+        "course_type": "area",
+        "course_name": "Disaster Awareness & Relief Management",
+        "ects_credits": 4,
+        "su_credits": 2,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MGMT 307",
+        "course_type": "area",
+        "course_name": "MIT Sloan Seminars in Management I",
+        "ects_credits": 1,
+        "su_credits": 1,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MGMT 308",
+        "course_type": "area",
+        "course_name": "MIT Sloan Seminars in Management II",
+        "ects_credits": 1,
+        "su_credits": 1,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MGMT 404",
+        "course_type": "area",
+        "course_name": "Technology Management",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MGMT 405",
+        "course_type": "area",
+        "course_name": "Turkish Managerial Context",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MGMT 406",
+        "course_type": "area",
+        "course_name": "Globalization",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MGMT 407",
+        "course_type": "area",
+        "course_name": "Business Law",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MGMT 408",
+        "course_type": "area",
+        "course_name": "Ethics in Business and Sustainability",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MGMT 409",
+        "course_type": "area",
+        "course_name": "Managing Non-Profit Organizations",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MGMT 410",
+        "course_type": "area",
+        "course_name": "Corporate Governance and Social Responsibility",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "ORG 301"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MGMT 411",
+        "course_type": "area",
+        "course_name": "Agile Project Management",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MGMT 412",
+        "course_type": "area",
+        "course_name": "Social Innovation and Entrepreneurship",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MGMT 413",
+        "course_type": "area",
+        "course_name": "Strategic Innovation",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MGMT 414",
+        "course_type": "area",
+        "course_name": "Negotiation Skills",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 15:40-18:30 FMAN G013-14"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MGMT 415",
+        "course_type": "area",
+        "course_name": "Entrepreneurial Technology Commercialization",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MGMT 417",
+        "course_type": "area",
+        "course_name": "Strategy Execution",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 10:40-13:30 FASS G018"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MGMT 418",
+        "course_type": "area",
+        "course_name": "Fundamentals of Family Business",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MGMT 419",
+        "course_type": "area",
+        "course_name": "Succession & Transfer of Power in Family Business",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 15:40-18:30 FASS 1050"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MGMT 420",
+        "course_type": "area",
+        "course_name": "New venture and Business Plan Development",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MGMT 421",
+        "course_type": "area",
+        "course_name": "Technology Awareness and Implications of Technology Trends to Business Life and Processes",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 08:40-11:30 FMAN L018"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MGMT 422",
+        "course_type": "area",
+        "course_name": "Socio-Cultural and Institutional Perspectives on the Family Business",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "MGMT 418"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MGMT 450",
+        "course_type": "area",
+        "course_name": "Selected Topics in Management I",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MGMT 451",
+        "course_type": "area",
+        "course_name": "Selected Topics in Management II",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MGMT 491",
+        "course_type": "area",
+        "course_name": "Career and Professional Development Course",
+        "ects_credits": 2,
+        "su_credits": 1,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "MGMT 201"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Thu 14:40-16:30 FASS 1050"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MGMT 492",
+        "course_type": "area",
+        "course_name": "Learning Through Action Project",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MGMT 495",
+        "course_type": "area",
+        "course_name": "Entrepreneurial Skills Workshop I",
+        "ects_credits": 2,
+        "su_credits": 1,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MGMT 496",
+        "course_type": "area",
+        "course_name": "Entrepreneurial Skills Workshop II",
+        "ects_credits": 2,
+        "su_credits": 1,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 15:40-16:30 FENS L062"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MGMT 499",
+        "course_type": "area",
+        "course_name": "Independent Study",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MKTG 401",
+        "course_type": "area",
+        "course_name": "Marketing Research",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "MKTG 301"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MKTG 403",
+        "course_type": "area",
+        "course_name": "International Marketing",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "MKTG 301"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MKTG 404",
+        "course_type": "area",
+        "course_name": "Digital Marketing",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "MKTG 301"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MKTG 405",
+        "course_type": "area",
+        "course_name": "Marketing Strategy",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "MKTG 301"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MKTG 406",
+        "course_type": "area",
+        "course_name": "Brand Management",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "MKTG 301"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MKTG 407",
+        "course_type": "area",
+        "course_name": "Sales Management",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "MKTG 301"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MKTG 408",
+        "course_type": "area",
+        "course_name": "Public Relations and Influencer Marketing",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "MKTG 301"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MKTG 409",
+        "course_type": "area",
+        "course_name": "Pricing in Marketing",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "MKTG 301"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 12:40-15:30 FMAN G013-14"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MKTG 410",
+        "course_type": "area",
+        "course_name": "Social Media Marketing",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "MKTG 301"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MKTG 411",
+        "course_type": "area",
+        "course_name": "Advertising and Promotion",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "MKTG 301"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 12:40-15:30 FMAN G013-14"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MKTG 412",
+        "course_type": "area",
+        "course_name": "Marketing Channel Management and Retailing",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "MKTG 301"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MKTG 413",
+        "course_type": "area",
+        "course_name": "AI for Consumers and Society",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MKTG 414",
+        "course_type": "area",
+        "course_name": "Marketing Analytics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "MKTG 301"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 15:40-18:30 FMAN G013-14"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MKTG 450",
+        "course_type": "area",
+        "course_name": "Selected Topics in Marketing I",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "MKTG 301"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MKTG 451",
+        "course_type": "area",
+        "course_name": "Selected Topics in Marketing II",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "MKTG 301"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "OPIM 390",
+        "course_type": "area",
+        "course_name": "Introduction to Business Analytics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "MGMT 203",
+                    "MATH 306"
+                ]
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 11:40-13:30 FMAN L018",
+                        "Fri 12:40-13:30 FMAN G013-14",
+                        "Fri 13:40-14:30 FMAN G013-14"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "OPIM 401",
+        "course_type": "area",
+        "course_name": "Supply Chain Management",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "OPIM 301"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 12:40-15:30 FMAN G065"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "OPIM 402",
+        "course_type": "area",
+        "course_name": "Optimization Modeling in Business Analytics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "MGMT 203",
+                    "MATH 306"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "OPIM 403",
+        "course_type": "area",
+        "course_name": "Service Operations Management",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "OPIM 301"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "OPIM 404",
+        "course_type": "area",
+        "course_name": "Business Process Analysis and Design",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "MGMT 203",
+                    "MATH 306"
+                ]
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 10:40-12:30 FASS G052",
+                        "Fri 10:40-11:30 FMAN L018"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "OPIM 405",
+        "course_type": "area",
+        "course_name": "Management Decision Support Systems",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "MGMT 203",
+                    "MATH 306"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "OPIM 406",
+        "course_type": "area",
+        "course_name": "Customer Relationship Management using Location Intelligence",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "OPIM 407",
+        "course_type": "area",
+        "course_name": "Advanced Business Analytics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "OPIM 390"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 11:40-14:30 FENS L045"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "OPIM 408",
+        "course_type": "area",
+        "course_name": "Retail Operations and Marketing Analytics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "OPIM 409",
+        "course_type": "area",
+        "course_name": "Project Management",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "MGMT 203",
+                    "MATH 306"
+                ]
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 14:40-16:30 FASS 1079",
+                        "Thu 11:40-12:30 FASS 1075"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "OPIM 410",
+        "course_type": "area",
+        "course_name": "Decision Making Under Uncertainty",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "MGMT 203",
+                    "MATH 306"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "OPIM 411",
+        "course_type": "area",
+        "course_name": "Fashion Industry Operations and Pricing",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "OPIM 301"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "OPIM 412",
+        "course_type": "area",
+        "course_name": "Strategic Procurement",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "OPIM 416",
+        "course_type": "area",
+        "course_name": "Quality Improvement with Six Sigma",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "MGMT 203",
+                    "MATH 306"
+                ]
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "OPIM 450",
+        "course_type": "area",
+        "course_name": "Selected Topics in Operations Management I",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "OPIM 451",
+        "course_type": "area",
+        "course_name": "Selected Topics in Operations Management II",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "OPIM 452",
+        "course_type": "area",
+        "course_name": "Selected Topics in Management Information Systems I",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "OPIM 453",
+        "course_type": "area",
+        "course_name": "Selected Topics in Management Information Systems II",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ORG 401",
+        "course_type": "area",
+        "course_name": "Human Resources Management",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "ORG 302"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 15:40-17:30 FMAN L018",
+                        "Thu 13:40-14:30 FMAN L018"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ORG 402",
+        "course_type": "area",
+        "course_name": "Organizational Design",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [
+                "ORG 301"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ORG 403",
+        "course_type": "area",
+        "course_name": "Cross-Cultural Management",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ORG 404",
+        "course_type": "area",
+        "course_name": "Creativity & Leading  Innovations",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 18:40-19:30 FMAN G060",
+                        "Thu 08:40-10:30 FMAN G060"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ORG 450",
+        "course_type": "area",
+        "course_name": "Selected Topics in Organizations I",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ORG 451",
+        "course_type": "area",
+        "course_name": "Selected Topics in Organizations II",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 201",
+        "course_type": "area",
+        "course_name": "Mind and Behavior",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 09:40-10:30 FENS G077",
+                        "Fri 10:40-12:30 FENS G077"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PSY 340",
+        "course_type": "area",
+        "course_name": "Social Psychology",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201",
+                "SPS 102"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 12:40-14:30 FASS G056",
+                        "Tue 14:40-15:30 FASS G049"
+                    ]
+                ]
+            }
+        ]
+    }
+]

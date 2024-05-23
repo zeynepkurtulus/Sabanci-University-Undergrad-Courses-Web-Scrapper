@@ -1,0 +1,8835 @@
+
+[
+    {
+      "course_name": "Computational Approaches to Problem Solving",
+      "course_code": "IF 100",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Calculus I",
+      "course_code": "MATH 101",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Civic Involvement Projects I-N",
+      "course_code": "CIP 101N",
+      "credit": 0,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Science of Nature I",
+      "course_code": "NS 101",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Humanity and Society I",
+      "course_code": "SPS 101",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Turkish Language and Literature I",
+      "course_code": "TLL 101",
+      "credit": 2,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Academic Literacies",
+      "course_code": "AL 102",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Calculus II",
+      "course_code": "MATH 102",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 101"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Science of Nature II",
+      "course_code": "NS 102",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [
+          "NS 101"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Humanity and Society II",
+      "course_code": "SPS 102",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Turkish Language and Literature II",
+      "course_code": "TLL 102",
+      "credit": 2,
+      "condition": {
+        "prerequisite": [
+          "TLL 101"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Principles of Atatürk and the History of the Turkish Revolution I",
+      "course_code": "HIST 191",
+      "credit": 2,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Principles of Atatürk and the History of the Turkish Revolution II",
+      "course_code": "HIST 192",
+      "credit": 2,
+      "condition": {
+        "prerequisite": [
+          "HIST 191"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Major Works of Literature",
+      "course_code": "HUM 201",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": [
+          23
+        ]
+      }
+    },
+    {
+      "course_name": "Undergraduate Project Course",
+      "course_code": "PROJ 201",
+      "credit": 1,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Major Works of Western Art",
+      "course_code": "HUM 202",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": [
+          23
+        ]
+      }
+    },
+    {
+      "course_name": "Major Works of Western Philosophy",
+      "course_code": "HUM 207",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": [
+          23
+        ]
+      }
+    },
+    {
+      "course_name": "Law and Ethics",
+      "course_code": "SPS 303",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": [
+          58
+        ]
+      }
+    },
+    {
+      "course_name": "Major Works of Literature: The World Before Modernity",
+      "course_code": "HUM 311",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102",
+          [
+            "HUM 201",
+            "HUM 202",
+            "HUM 207"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Major Works of Modern Art",
+      "course_code": "HUM 312",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102",
+          [
+            "HUM 201",
+            "HUM 202",
+            "HUM 207"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Major Works of Moral Philosophy",
+      "course_code": "HUM 317",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102",
+          [
+            "HUM 201",
+            "HUM 202",
+            "HUM 207"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Major Works of Literature: The Modern World",
+      "course_code": "HUM 321",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102",
+          [
+            "HUM 201",
+            "HUM 202",
+            "HUM 207"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Major Works of Art: The World Before Modernity",
+      "course_code": "HUM 322",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102",
+          [
+            "HUM 201",
+            "HUM 202",
+            "HUM 207"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Major Works of Literature: The Islamic World",
+      "course_code": "HUM 371",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102",
+          [
+            "HUM 201",
+            "HUM 202",
+            "HUM 207"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Programming Fundamentals",
+      "course_code": "CS 201",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "IF 100"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Advanced Programming",
+      "course_code": "CS 204",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Data Structures",
+      "course_code": "CS 300",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Algorithms",
+      "course_code": "CS 301",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 204",
+          "CS 300"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Internship Project",
+      "course_code": "CS 395",
+      "credit": 0,
+      "condition": {
+        "prerequisite": [
+          [
+            "PROJ 102",
+            "PROJ 201"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Graduation Project (Design)",
+      "course_code": "ENS 491",
+      "credit": 1,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Graduation Project  (Implementation)",
+      "course_code": "ENS 492",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "ENS 491",
+            "ENS 491"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Linear Algebra",
+      "course_code": "MATH 201",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Probability",
+      "course_code": "MATH 203",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Discrete Mathematics",
+      "course_code": "MATH 204",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Bioinformatics",
+      "course_code": "BIO 310",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 203",
+          "IF 100"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Data Science",
+      "course_code": "CS 210",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "IF 100",
+          "MATH 203"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Formal Languages and Automata Theory",
+      "course_code": "CS 302",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Logic and Digital System Design",
+      "course_code": "CS 303",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Programming Languages",
+      "course_code": "CS 305",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Database Systems",
+      "course_code": "CS 306",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Operating Systems",
+      "course_code": "CS 307",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Software Engineering",
+      "course_code": "CS 308",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [
+          "CS 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Mobile Application Development",
+      "course_code": "CS 310",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Logic in Computer Science",
+      "course_code": "CS 400",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Computer Architectures",
+      "course_code": "CS 401",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [
+          "CS 303"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Compiler Design",
+      "course_code": "CS 402",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 305"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Distributed Systems",
+      "course_code": "CS 403",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 307"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Artificial Intelligence",
+      "course_code": "CS 404",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Computer Graphics",
+      "course_code": "CS 405",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 300"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Parallel Computing",
+      "course_code": "CS 406",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Theory of Computation",
+      "course_code": "CS 407",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 302"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Computer Networks",
+      "course_code": "CS 408",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Cryptography",
+      "course_code": "CS 411",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Machine Learning",
+      "course_code": "CS 412",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 201",
+          "MATH 203"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Digital Image and Video Analysis",
+      "course_code": "CS 419",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Computer and Network Security",
+      "course_code": "CS 432",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "CS 408",
+            "EE 414"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Cloud Computing",
+      "course_code": "CS 436",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Cybersecurity Practices and Applications",
+      "course_code": "CS 437",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 408"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Software Verification and Validation",
+      "course_code": "CS 439",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Natural Language Processing",
+      "course_code": "CS 445",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 204",
+          "CS 210"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Human Computer Interaction",
+      "course_code": "CS 449",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "IF 100"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Microcomputer Based System Design",
+      "course_code": "EE 308",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [
+          "CS 303"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Computer Vision",
+      "course_code": "EE 417",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Systems Modeling and Control",
+      "course_code": "ENS 206",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 102",
+          "MATH 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Computational Biology",
+      "course_code": "ENS 210",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 101",
+          "IF 100"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Signals",
+      "course_code": "ENS 211",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 101"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Statistical Modelling",
+      "course_code": "MATH 306",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 203"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Robotics",
+      "course_code": "ME 403",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 206"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Autonomous Mobile Robotics",
+      "course_code": "ME 425",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "ENS 206",
+            "ENS 211"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Network Science",
+      "course_code": "CS 414",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 210"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Blockchain: Security and Applications",
+      "course_code": "CS 438",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Software Design Patterns",
+      "course_code": "CS 442",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 308"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Special Topics in CS: Agile Software Development",
+      "course_code": "CS 48004",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 308"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Special Topics in CS: Decentralized Finance",
+      "course_code": "CS 48006",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "CS 48001",
+            "CS 438"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Special Topics in CS: Internet of Things Sensing System",
+      "course_code": "CS 48007",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Special Topics in CS: Malware Analysis and Detection",
+      "course_code": "CS 48008",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 408"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Games and Strategies",
+      "course_code": "ECON 201",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Spatial Data Science",
+      "course_code": "ECON 494",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Electronic Circuit Implementations",
+      "course_code": "EE 200",
+      "credit": 2,
+      "condition": {
+        "prerequisite": [
+          "ENS 203"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Hardware Description Languages",
+      "course_code": "EE 310",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 303"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Discrete-Time Signals and Systems",
+      "course_code": "EE 312",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 211"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Information and Coding Theory",
+      "course_code": "EE 410",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 201",
+          "MATH 203"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Wireless Communications",
+      "course_code": "EE 413",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "TE 304",
+            "EE 314"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Multimedia  Communication",
+      "course_code": "EE 414",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Digital Speech and Audio Processing",
+      "course_code": "EE 415",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "TE 302",
+            "EE 312"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Signal Processing Design and Implementation",
+      "course_code": "EE 419",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "TE 302",
+            "EE 312"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Special Topics in EE: Heterogeneous Computing and System-on-Chip Design",
+      "course_code": "EE 48008",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 303"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Electronic Circuits I",
+      "course_code": "ENS 203",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Industrial Engineering",
+      "course_code": "ENS 208",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "IF 100",
+          "MATH 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Information Systems: A Historical Perspective",
+      "course_code": "ENS 216",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Biological Circuits and Molecular Machines",
+      "course_code": "ENS 222",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Numerical Analysis",
+      "course_code": "ENS 409",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Stochastic Models in Operations Research",
+      "course_code": "IE 302",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [
+          "MATH 203",
+          [
+            "MS 301",
+            "IE 301",
+            "IE 311"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Simulation",
+      "course_code": "IE 305",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 306"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Operations Research I",
+      "course_code": "IE 311",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 201",
+          "ENS 208"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Operations Research III",
+      "course_code": "IE 313",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "IE 305"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Decision Analysis",
+      "course_code": "IE 405",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 306"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Project Scheduling and Management",
+      "course_code": "IE 409",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "IE 311",
+          "IE 303"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Information Systems",
+      "course_code": "IE 413",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Decision Support Systems",
+      "course_code": "IE 415",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 201",
+          "IE 311"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Monte Carlo Methods in Finance",
+      "course_code": "IE 436",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 306"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Data Visualization and Analysis",
+      "course_code": "IE 451",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 306"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Creativity, Innovation and Entrepreneurship",
+      "course_code": "IF 333",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Decision, Psychology and Brain",
+      "course_code": "IF 467",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "NS 201",
+          "MATH 203"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Differential Equations",
+      "course_code": "MATH 202",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Vector Calculus",
+      "course_code": "MATH 206",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Mathematical Analysis",
+      "course_code": "MATH 301",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Complex Calculus",
+      "course_code": "MATH 305",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Algebra",
+      "course_code": "MATH 311",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Elementary Number Theory",
+      "course_code": "MATH 317",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 102",
+          "MATH 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Combinatorics",
+      "course_code": "MATH 318",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Finite Fields and Applications",
+      "course_code": "MATH 414",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 311"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Computational Techniques for Materials at the Nano-scale",
+      "course_code": "MAT 306",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Embedded Systems",
+      "course_code": "ME 407",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Scaling in Engineering Systems",
+      "course_code": "ME 435",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Data Analysis and Research in Business",
+      "course_code": "MGMT 203",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MGMT 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Doğa Bilimleri ve Mühendislik için Temel Fizik Kavramları",
+      "course_code": "NS 213",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "NS 101"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Management Information Systems",
+      "course_code": "OPIM 302",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Business Analytics",
+      "course_code": "OPIM 390",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "MGMT 203",
+            "MATH 306"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Optimization Modeling in Business Analytics",
+      "course_code": "OPIM 402",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "MGMT 203",
+            "MATH 306"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Business Process Analysis and Design",
+      "course_code": "OPIM 404",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "MGMT 203",
+            "MATH 306"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Management Decision Support Systems",
+      "course_code": "OPIM 405",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "MGMT 203",
+            "MATH 306"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Customer Relationship Management using Location Intelligence",
+      "course_code": "OPIM 406",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Advanced Business Analytics",
+      "course_code": "OPIM 407",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "OPIM 390"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Retail Operations and Marketing Analytics",
+      "course_code": "OPIM 408",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Project Management",
+      "course_code": "OPIM 409",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "MGMT 203",
+            "MATH 306"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Quantum Computation and Quantum Information",
+      "course_code": "PHYS 484",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Multimedia",
+      "course_code": "VA 310",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Interface Design",
+      "course_code": "VA 325",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Creative Coding",
+      "course_code": "VA 345",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Interaction Design",
+      "course_code": "VA 444",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Physical Computing",
+      "course_code": "VA 455",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Financial Accounting and Reporting",
+      "course_code": "ACC 201",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Managerial Accounting",
+      "course_code": "ACC 301",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "ACC 201",
+            "MGMT 202"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Intermediate Financial Accounting and Reporting",
+      "course_code": "ACC 401",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ACC 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Advanced Issues in Financial Accounting",
+      "course_code": "ACC 402",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ACC 401"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Auditing",
+      "course_code": "ACC 403",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ACC 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "International Accounting",
+      "course_code": "ACC 404",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ACC 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Financial Statement Analysis",
+      "course_code": "ACC 405",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "FIN 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Intermediate Managerial Accounting",
+      "course_code": "ACC 406",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ACC 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Selected Topics in Accounting I",
+      "course_code": "ACC 450",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ACC 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Selected Topics in Accounting II",
+      "course_code": "ACC 451",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ACC 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Anthropology as Cultural Critique",
+      "course_code": "ANTH 214",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Anthropology of the Global City",
+      "course_code": "ANTH 251",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Local Cultures, Global Forces",
+      "course_code": "ANTH 255",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Material Culture",
+      "course_code": "ANTH 320",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Anthropology of Migration and the City",
+      "course_code": "ANTH 321",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Anthropology of the Body",
+      "course_code": "ANTH 326",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Anthropology of Gender and Sexuality",
+      "course_code": "ANTH 340",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Anthropology of Development Social Change and Social Justice",
+      "course_code": "ANTH 350",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Migration and Citizenship",
+      "course_code": "ANTH 354",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Etnographic Approaches to Law and Conflict",
+      "course_code": "ANTH 413",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SOC 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Anthropology of the State",
+      "course_code": "ANTH 415",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Anthropology of Affect",
+      "course_code": "ANTH 425",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Anthropology of Hope",
+      "course_code": "ANTH 428",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Anthropology of the Middle East and North Africa (MENA)",
+      "course_code": "ANTH 450",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "CULT 201",
+            "SOC 201"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Social Mobilization, Resistance and Protest",
+      "course_code": "ANTH 465",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Ethnography: Fieldwork and Writing in Antropology",
+      "course_code": "ANTH 468",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Anthropology and History",
+      "course_code": "ANTH 469",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Anthropology of Europe",
+      "course_code": "ANTH 471",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Molecular Biology",
+      "course_code": "BIO 301",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [
+          "BIO 321"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Genetics",
+      "course_code": "BIO 303",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [
+          "NS 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Biological Function and Structure",
+      "course_code": "BIO 304",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Microbiology",
+      "course_code": "BIO 306",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [
+          "BIO 321",
+          "BIO 332"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Plant Physiology",
+      "course_code": "BIO 308",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Biochemistry I",
+      "course_code": "BIO 321",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [
+          "NS 201",
+          "NS 207"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Biochemistry II",
+      "course_code": "BIO 322",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Environmental Plant Biology",
+      "course_code": "BIO 330",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Cell Biology",
+      "course_code": "BIO 332",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [
+          "BIO 321"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Analytical Techniques",
+      "course_code": "BIO 335",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Ecology",
+      "course_code": "BIO 363",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Mammalian Cell Culture",
+      "course_code": "BIO 370",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Plant Biotechnology",
+      "course_code": "BIO 404",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Multicellular Organization",
+      "course_code": "BIO 407",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Plant Nutrition",
+      "course_code": "BIO 415",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Tissue Engineering",
+      "course_code": "BIO 421",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "BIO 301",
+          "BIO 332"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Neurobiology",
+      "course_code": "BIO 423",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Cancer Biology",
+      "course_code": "BIO 436",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Bioengineering",
+      "course_code": "BIO 444",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Plant Tissue Culture Techniques",
+      "course_code": "BIO 445",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Biology of Aging",
+      "course_code": "BIO 446",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Immunology",
+      "course_code": "BIO 452",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "NS 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Signal Transduction",
+      "course_code": "BIO 467",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "NS 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Gene Regulation & Diseas",
+      "course_code": "BIO 468",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "BIO 332",
+          "BIO 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Chemical Kinetics",
+      "course_code": "CHEM 202",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Inorganic Chemistry",
+      "course_code": "CHEM 301",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Analytical Chemistry",
+      "course_code": "CHEM 302",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Chemistry of Transformable Materials",
+      "course_code": "CHEM 369",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "NS 207"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Electrochemistry",
+      "course_code": "CHEM 405",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Clean Coal Technology",
+      "course_code": "CHEM 421",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Conflict Analysis and Resolution",
+      "course_code": "CONF 300",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "International Conflict and Peace",
+      "course_code": "CONF 400",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Conflict Resolution Practice",
+      "course_code": "CONF 431",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Theory and Practice in Cultural Studies",
+      "course_code": "CULT 201",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Popular Culture and Everyday Life",
+      "course_code": "CULT 222",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Consumption, Food and Culture",
+      "course_code": "CULT 223",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Advertising and Culture",
+      "course_code": "CULT 225",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Media Studies",
+      "course_code": "CULT 230",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Topics in Turkish Cultural Studies",
+      "course_code": "CULT 299",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Youth Culture",
+      "course_code": "CULT 322",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Humans and Clones",
+      "course_code": "CULT 324",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Media Worlds",
+      "course_code": "CULT 325",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Postcolonial Theory and Its Discontents",
+      "course_code": "CULT 327",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "CULT 201",
+            "SOC 201"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Gender and Nationalism",
+      "course_code": "CULT 342",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Urban Spaces and Cultures",
+      "course_code": "CULT 355",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Consumer Society and Cultures",
+      "course_code": "CULT 360",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Oral History",
+      "course_code": "CULT 361",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Memory Studies",
+      "course_code": "CULT 362",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Topics in Memory Studies",
+      "course_code": "CULT 364",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Globalization and Health Inequalities",
+      "course_code": "CULT 368",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Everyday Life",
+      "course_code": "CULT 370",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Political Ecology and Society",
+      "course_code": "CULT 384",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Turkish Culture: Critical Perspectives",
+      "course_code": "CULT 391",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Independent Study",
+      "course_code": "CULT 399",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Science, Technology and Culture",
+      "course_code": "CULT 420",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Modernism/Postmodernism",
+      "course_code": "CULT 432",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "HUM 201",
+            "CULT 201"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Advanced Cultural Theory",
+      "course_code": "CULT 434",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "CULT 201",
+            "SOC 201"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Representations of Violence",
+      "course_code": "CULT 435",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Gender and Media",
+      "course_code": "CULT 446",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Harem Fictions: From Montesquieu to Mernissi",
+      "course_code": "CULT 449",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Nation, History and Culture in Museums",
+      "course_code": "CULT 451",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "CULT 201",
+            "CULT 291"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Myth, Art and Politics",
+      "course_code": "CULT 452",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Spaces of Migration",
+      "course_code": "CULT 453",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Cultures of Migration",
+      "course_code": "CULT 454",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Cultures and Politics of Law Reform",
+      "course_code": "CULT 460",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "CULT 201",
+            "SOC 201"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Postsocialism",
+      "course_code": "CULT 462",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Advanced Topics in Cultural Studies I",
+      "course_code": "CULT 491",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Advanced Topics in Cultural Studies II",
+      "course_code": "CULT 492",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Thematic Approaches to Contemporary Turkish Culture",
+      "course_code": "CULT 493",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Macroeconomics",
+      "course_code": "ECON 202",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Microeconomics",
+      "course_code": "ECON 204",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Econometrics",
+      "course_code": "ECON 301",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 306"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Game Theory",
+      "course_code": "ECON 310",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 204",
+          "ECON 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Behavioral Economics",
+      "course_code": "ECON 312",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Public Economics",
+      "course_code": "ECON 320",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 204",
+          "ECON 202",
+          "ECON 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Education Economics and Policy",
+      "course_code": "ECON 321",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Health Economics and Policy",
+      "course_code": "ECON 322",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 202",
+          "ECON 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Energy and Environmental Economics",
+      "course_code": "ECON 323",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 201",
+          "ECON 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Industrial Organization",
+      "course_code": "ECON 330",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 204",
+          "ECON 201",
+          "ECON 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Economics of Information",
+      "course_code": "ECON 335",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 201",
+          "ECON 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "International Economics",
+      "course_code": "ECON 340",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 202",
+          "ECON 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Corporate Finance",
+      "course_code": "ECON 341",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 204",
+          "ECON 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "International Finance",
+      "course_code": "ECON 345",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 202"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Global Finance and Multinational Corporation",
+      "course_code": "ECON 346",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Essentials of Project and Infrastructure Finance",
+      "course_code": "ECON 347",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Financial Institutions and Markets",
+      "course_code": "ECON 350",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 201",
+          "ECON 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Advanced Macroeconomics",
+      "course_code": "ECON 360",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 202",
+          "ECON 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Advanced Microeconomics",
+      "course_code": "ECON 370",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 201",
+          "ECON 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Topics in Macroeconomics: Emerging Market Macroeconomics",
+      "course_code": "ECON 391",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 202"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Independent Study",
+      "course_code": "ECON 399",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "History of Economic Thought",
+      "course_code": "ECON 400",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 202",
+          "ECON 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Applied Econometrics",
+      "course_code": "ECON 401",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Economic History",
+      "course_code": "ECON 403",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 202"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Law and Economics",
+      "course_code": "ECON 405",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 201",
+          "ECON 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "The Political Economy of European Integration",
+      "course_code": "ECON 407",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 340"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Competition and Regulation",
+      "course_code": "ECON 412",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 301",
+          "ECON 330"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Applied Macroeconomics",
+      "course_code": "ECON 414",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 202",
+          "ECON 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Growth and Development",
+      "course_code": "ECON 420",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 202",
+          "ECON 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "From Plan to Market: Economic Transformation in Eastern Europe",
+      "course_code": "ECON 422",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Economics of the Welfare State",
+      "course_code": "ECON 423",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Welfare Economics",
+      "course_code": "ECON 424",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Topics in Political Economics",
+      "course_code": "ECON 425",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Labor Economics",
+      "course_code": "ECON 430",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Topics in Economics of Globalization and Development",
+      "course_code": "ECON 440",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 340"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Microeconomics of Banking",
+      "course_code": "ECON 450",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Advanced Microeconomic Theory I",
+      "course_code": "ECON 481",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Advanced Microeconomic Theory II",
+      "course_code": "ECON 482",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Advanced Macroeconomic Theory I",
+      "course_code": "ECON 483",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Advanced Macroeconomic Theory II",
+      "course_code": "ECON 484",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Advanced Quantitative Methods",
+      "course_code": "ECON 485",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Advanced Econometric Theory",
+      "course_code": "ECON 486",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Matchings and Markets",
+      "course_code": "ECON 488",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 204",
+          "ECON 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Topics in Economic Theory",
+      "course_code": "ECON 491",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 204",
+          "ECON 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Seminar on the Turkish Economy",
+      "course_code": "ECON 492",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 202",
+          "ECON 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Understanding Chinese Economy",
+      "course_code": "ECON 493",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 202"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Machine Learning for Policy Evaluation",
+      "course_code": "ECON 495",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ECON 202",
+          "ECON 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Electronic Circuits II",
+      "course_code": "EE 202",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 203"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Electromagnetics II",
+      "course_code": "EE 301",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Digital Integrated Circuits",
+      "course_code": "EE 302",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "EL 202",
+            "EE 202"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Analog Integrated Circuits",
+      "course_code": "EE 303",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "EL 202",
+            "EE 202"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Radio Frequency and Microwave Design",
+      "course_code": "EE 306",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 201",
+          "EE 200",
+          "EE 202"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Semiconductor Physics and Devices",
+      "course_code": "EE 307",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 203"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Signal Processing and Information Systems",
+      "course_code": "EE 311",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 211"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Communication Systems",
+      "course_code": "EE 313",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 211"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Digital Communications",
+      "course_code": "EE 314",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 211"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Very Large Scale Integrated System Design I",
+      "course_code": "EE 401",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 303",
+          [
+            "EL 302",
+            "EE 302"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Very Large Scale Integrated System Design II",
+      "course_code": "EE 402",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "EE 401",
+            "EL 401"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Optoelectronics",
+      "course_code": "EE 403",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "EE 307"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Microelectromechanical Systems",
+      "course_code": "EE 404",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 203"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Communication Circuit Design",
+      "course_code": "EE 405",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "EL 303",
+            "EE 303"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Antennas and Propagation for Wireless Communication",
+      "course_code": "EE 406",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "TE 305",
+            "EE 301"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Microelectronic Fabrication",
+      "course_code": "EE 407",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "EL 204",
+            "EE 307"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Modeling of Semiconductor Devices",
+      "course_code": "EE 408",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "EL 202",
+            "EE 202"
+          ],
+          [
+            "EL 204",
+            "EE 307"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Microwaves",
+      "course_code": "EE 409",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "RF Integrated Circuits.",
+      "course_code": "EE 411",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "EE 306"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Mixed-Signal Integrated Circuits",
+      "course_code": "EE 440",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "EE 302",
+          "EE 303"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Optics",
+      "course_code": "EE 444",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 201",
+          "ENS 203",
+          "ENS 211"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Biomedical Instrumentation",
+      "course_code": "EE 473",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 203"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Special Topics in EE: RF Integrated Circuits Design",
+      "course_code": "EE 48000",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Special Topics in EE: Nanoscale Integrated Circuit Design",
+      "course_code": "EE 48001",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Special Topics in EE: Sensor Networks",
+      "course_code": "EE 48002",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Special Topics in EE: Power systems analysis",
+      "course_code": "EE 48004",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "World Energy Outlook: The Coming Year",
+      "course_code": "ENRG 220",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Energy Systems and Environment",
+      "course_code": "ENRG 301",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "NS 101",
+          "NS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Energy",
+      "course_code": "ENRG 315",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Energy: Supply Chain, Economics and Geopolitics",
+      "course_code": "ENRG 401",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Energy Systems Optimization",
+      "course_code": "ENRG 420",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Battery Science and Engineering",
+      "course_code": "ENRG 422",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "NS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Electric Power Systems: Operation, Technology and Economics",
+      "course_code": "ENRG 423",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Electromagnetics I",
+      "course_code": "ENS 201",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "NS 101",
+          "MATH 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Thermodynamics",
+      "course_code": "ENS 202",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "NS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Mechanics",
+      "course_code": "ENS 204",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "NS 101",
+          "MATH 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Materials Science",
+      "course_code": "ENS 205",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "NS 102",
+          "MATH 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Energy Systems",
+      "course_code": "ENS 207",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Computer Aided Drafting and Solid Modeling",
+      "course_code": "ENS 209",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Dynamics",
+      "course_code": "ENS 214",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Technology and Society",
+      "course_code": "ENS 302",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Space Technology",
+      "course_code": "ENS 303",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Computer Aided Engineering",
+      "course_code": "ENS 309",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 209",
+          "IE 309"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Advanced Solid Modeling Techniques",
+      "course_code": "ENS 410",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 209"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Experimental Methods in Nanoscience I",
+      "course_code": "ENS 413",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Experimental Methods in Nanoscience II",
+      "course_code": "ENS 414",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Scanning Probe Microscopy",
+      "course_code": "ENS 416",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Special Topics in FENS: Energy: Supply Chain, Economics and Geopolitics",
+      "course_code": "ENS 48000",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Special Topics in FENS: Materials Selection in Product Design",
+      "course_code": "ENS 48001",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 205"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Special Topics in FENS: Analysis of Social Networks",
+      "course_code": "ENS 48002",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Special Topics in FENS: Nanobiotechnology",
+      "course_code": "ENS 4803",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "The Foundations of Entrepreneurship",
+      "course_code": "ENT 201",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Film Studies",
+      "course_code": "FILM 231",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Approaches to Film Studies",
+      "course_code": "FILM 331",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Critical Perspectives on Turkish Cinema",
+      "course_code": "FILM 335",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "International Cinemas",
+      "course_code": "FILM 345",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Topics in Film Studies",
+      "course_code": "FILM 390",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Anthropology and Film",
+      "course_code": "FILM 424",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Vision, Representation and Cinema",
+      "course_code": "FILM 432",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Documentary: Context and Practice-I",
+      "course_code": "FILM 435",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Documentary Context and Practice-II",
+      "course_code": "FILM 436",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "FILM 435"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Psychoanalysis and Film",
+      "course_code": "FILM 452",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Financial Management",
+      "course_code": "FIN 301",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Corporate Finance",
+      "course_code": "FIN 401",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "FIN 301",
+            "IE 303"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Investments",
+      "course_code": "FIN 402",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "FIN 301",
+            "IE 303"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Derivative Securities",
+      "course_code": "FIN 403",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "FIN 301",
+            "IE 303"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Multinational Corporate Finance",
+      "course_code": "FIN 404",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "FIN 301",
+            "IE 303"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Corporate Mergers & Acquisitions",
+      "course_code": "FIN 405",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "FIN 301",
+            "IE 303"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Behavioral Finance",
+      "course_code": "FIN 406",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "FIN 301",
+            "IE 303"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Entrepreneurship and Venture Capital",
+      "course_code": "FIN 407",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "FIN 301",
+            "IE 303"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Financial Products",
+      "course_code": "FIN 408",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "FIN 301",
+            "IE 303"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Banking and Financial Intermediation",
+      "course_code": "FIN 409",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "FIN 301",
+            "IE 303"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Financial Technologies",
+      "course_code": "FIN 410",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "FIN 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Selected Topics in Finance I",
+      "course_code": "FIN 450",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "FIN 301",
+            "IE 303"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Selected Topics in Finance II",
+      "course_code": "FIN 451",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "FIN 301",
+            "IE 303"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Wealth Management",
+      "course_code": "FIN 499",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "FIN 301",
+            "IE 303"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Myths of Gender",
+      "course_code": "GEN 341",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Topics In Gender & Sexuality Studies",
+      "course_code": "GEN 343",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Gender and Migration",
+      "course_code": "GEN 383",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Migrations and the Family",
+      "course_code": "GEN 385",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Independent Study in Gender Studies",
+      "course_code": "GEN 399",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Gender and Politics",
+      "course_code": "GEN 410",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "GEN 341",
+            "CULT 341"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Gender in the Middle East",
+      "course_code": "GEN 441",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Gendered Memories of War and Political Violence",
+      "course_code": "GEN 442",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Gender and Sexuality in Turkey",
+      "course_code": "GEN 444",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Men and Mesculinities",
+      "course_code": "GEN 480",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "GEN 341",
+            "CULT 341"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "History of Photography and Moving Image",
+      "course_code": "HART 213",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Classical Mythology in Art",
+      "course_code": "HART 234",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "From Modern to Contemporary Art",
+      "course_code": "HART 292",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Contemporary Art",
+      "course_code": "HART 293",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Renaissance Art",
+      "course_code": "HART 311",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "HUM 202"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Renaissance Visuality II (Cinquecento)",
+      "course_code": "HART 312",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "HUM 202"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Women Artists",
+      "course_code": "HART 320",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "HUM 202",
+            "HUM 212"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Art and Power",
+      "course_code": "HART 323",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "HUM 202"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "The Imaginary of the Middle Ages in Modern Art and Popular Culture",
+      "course_code": "HART 330",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102",
+          "HUM 201",
+          "HUM 202"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Heavenly Spires: Introduction to Medieval European Art and Architecture",
+      "course_code": "HART 333",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Roman Art in Context",
+      "course_code": "HART 334",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Art in the Age of Transition (from Renaiss. to Early Modern)",
+      "course_code": "HART 392",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Art in the age of Revolt: Early Modernity",
+      "course_code": "HART 411",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "HUM 202"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Visual Arts in Turkey",
+      "course_code": "HART 413",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Post 60 Turkish Art",
+      "course_code": "HART 414",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Art Project at the Museum",
+      "course_code": "HART 424",
+      "credit": 1,
+      "condition": {
+        "prerequisite": [
+          [
+            "HUM 202",
+            "HUM 212"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Art & History at the Museum",
+      "course_code": "HART 425",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Leonardo and Michelangelo: Heroes of the Renaissance",
+      "course_code": "HART 426",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102",
+          "HUM 202"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "The Dome of Gold : The Art of the Byzantine Empire",
+      "course_code": "HART 431",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Post-1945 American Art",
+      "course_code": "HART 432",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Art and Architecture of the Medieval Mediterranean",
+      "course_code": "HART 434",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Designing the Nation. Art and Nationalism",
+      "course_code": "HART 444",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102",
+          [
+            "HUM 202",
+            "HUM 212"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Caravaggio",
+      "course_code": "HART 450",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "HUM 202",
+          "HART 311"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Bauhaus",
+      "course_code": "HART 480",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "HUM 202"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "History of the Twentieth Century",
+      "course_code": "HIST 205",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "The Medieval Hero, East and West",
+      "course_code": "HIST 233",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Episodes in the History of Science I",
+      "course_code": "HIST 315",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Episodes in the History of Science II",
+      "course_code": "HIST 316",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Early Islamic History : A Survey",
+      "course_code": "HIST 331",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Islamic History: the Middle Period (c.945 - 1500)",
+      "course_code": "HIST 332",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "The Gunpowder Empires of the Islamic World, ca. 1450-1800",
+      "course_code": "HIST 335",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "History of Central and Inner Asia",
+      "course_code": "HIST 336",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Diplomatic History of the Modern Era I (1815-1950)",
+      "course_code": "HIST 348",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Diplomatic History of the Modern Era II (1945-2004)",
+      "course_code": "HIST 349",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "History of a City II : Ottoman Istanbul, 1450-1900",
+      "course_code": "HIST 371",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Family, Childhood and Gender in European History",
+      "course_code": "HIST 424",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Russian History I : Tsarist Russia (from the 17th Century to 1917)",
+      "course_code": "HIST 434",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Christians In The Ottoman Empire",
+      "course_code": "HIST 439",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Minority Questions in Contemporary Turkey",
+      "course_code": "HIST 485",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "From Empire to Republic : Turkish Nationalism and the Nation-State",
+      "course_code": "HIST 489",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Genres and Styles of Western Music",
+      "course_code": "HUM 413",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "HUM 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Orientalism in Western Classical Music",
+      "course_code": "HUM 414",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "HUM 204",
+            "HUM 214"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Decision Economics",
+      "course_code": "IE 303",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Production and Service Systems Planning and Design",
+      "course_code": "IE 304",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "MS 301",
+            "IE 301",
+            "IE 311"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Human Factors Engineering",
+      "course_code": "IE 306",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 306"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Manufacturing Processes I",
+      "course_code": "IE 309",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 205"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Operations Research II",
+      "course_code": "IE 312",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "IE 311"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Production and Service Systems Operations",
+      "course_code": "IE 401",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "MS 301",
+            "IE 301",
+            "IE 311"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Integrated Manufacturing Systems",
+      "course_code": "IE 402",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "MS 309",
+            "IE 309"
+          ],
+          "ENS 209"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Quality Planning and Control",
+      "course_code": "IE 403",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 306"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Reliability and Maintenance Analysis",
+      "course_code": "IE 408",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 306",
+          [
+            "MS 304",
+            "IE 304"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Modeling and Analysis of Large Systems",
+      "course_code": "IE 411",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "IE 312"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Manufacturing and Digitalization  Strategies",
+      "course_code": "IE 414",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "IE 304"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Additive Manufacturing",
+      "course_code": "IE 416",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 209"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Facilities and Material Handling Design",
+      "course_code": "IE 417",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "IE 304"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Computational Operations Research",
+      "course_code": "IE 425",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "IE 312",
+          "IE 305"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Logistics Systems Planning and Design",
+      "course_code": "IE 430",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "IE 312"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Stochastic Models in Finance",
+      "course_code": "IE 432",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "IE 303"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Supply Chain Analysis",
+      "course_code": "IE 454",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "MS 401",
+            "IE 401"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Supply Chain Practice",
+      "course_code": "IE 471",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Strategic Decision Making Practice",
+      "course_code": "IE 472",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Special Topics in IE:Advanced statistics with R",
+      "course_code": "IE 48002",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 306"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Fantasy, Reality, Science and Society",
+      "course_code": "IF 200",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Gender in Science and Technology",
+      "course_code": "IF 301",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "International Relations Theory",
+      "course_code": "IR 201",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Globalization and International Relations",
+      "course_code": "IR 301",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102",
+          "IR 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Global Civics",
+      "course_code": "IR 312",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Global Governance",
+      "course_code": "IR 341",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Turkish Foreign Policy",
+      "course_code": "IR 342",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "International Political Economy",
+      "course_code": "IR 391",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102",
+          "ECON 202",
+          "IR 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Foreign Policy Analysis",
+      "course_code": "IR 392",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "World Politics",
+      "course_code": "IR 394",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Turkey and the Middle East",
+      "course_code": "IR 401",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102",
+          "IR 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Turkey in Europe",
+      "course_code": "IR 402",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 102",
+          "SPS 101"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Political Violence in the Post-Cold War Era",
+      "course_code": "IR 403",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "European Foreign Policy",
+      "course_code": "IR 405",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Turkey and the South Caucasus",
+      "course_code": "IR 406",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Domestic Sources of International Politics",
+      "course_code": "IR 407",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "International Security",
+      "course_code": "IR 410",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102",
+          "IR 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Human Rights in World Affairs",
+      "course_code": "IR 489",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "International Negotiation",
+      "course_code": "IR 493",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102",
+          "ECON 202",
+          "IR 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "History of Western Law",
+      "course_code": "LAW 309",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Comparative Legal Thought",
+      "course_code": "LAW 310",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "International Law",
+      "course_code": "LAW 311",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Comparative Constitutional Law",
+      "course_code": "LAW 312",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Law, Business and Society",
+      "course_code": "LAW 401",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Internartional Business Law",
+      "course_code": "LAW 403",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Human Rights in the EU",
+      "course_code": "LAW 404",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Analyzing Text and Context",
+      "course_code": "LIT 212",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Topics in World Literature",
+      "course_code": "LIT 252",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Topics in Turkish Literature",
+      "course_code": "LIT 290",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Popular Literature",
+      "course_code": "LIT 320",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Postcolonial Theory and Literatures",
+      "course_code": "LIT 324",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Literature and Immigration",
+      "course_code": "LIT 354",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Literature, Ideology and  Resistance",
+      "course_code": "LIT 359",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Imagining the City",
+      "course_code": "LIT 370",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Creative Writing",
+      "course_code": "LIT 371",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Modern Turkish Literature",
+      "course_code": "LIT 394",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Auto/biography",
+      "course_code": "LIT 430",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Literary Theory",
+      "course_code": "LIT 434",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Literature and Psychoanalysis",
+      "course_code": "LIT 440",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Gender and Sexuality in Literature",
+      "course_code": "LIT 445",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Seminar in World Literature",
+      "course_code": "LIT 452",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Advanced Topics in Turkish Literature",
+      "course_code": "LIT 492",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "History of Mathematics",
+      "course_code": "MATH 221",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Integration",
+      "course_code": "MATH 302",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Dynamical Systems",
+      "course_code": "MATH 307",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Partial Differential Equations",
+      "course_code": "MATH 322",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 202"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Functional Analysis",
+      "course_code": "MATH 401",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Hilbert Space Techniques",
+      "course_code": "MATH 402",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Proofs from the Notebook",
+      "course_code": "MATH 409",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 201",
+          "MATH 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Stochastic Calculus",
+      "course_code": "MATH 410",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MATH 203"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Electrical, Optical and Magnetic Properties of Materials",
+      "course_code": "MAT 204",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "NS 101",
+          "MATH 101"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Kinetics of Materials",
+      "course_code": "MAT 206",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 202",
+          "ENS 205"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Polymer Synthesis",
+      "course_code": "MAT 302",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Polymer Engineering: Fundamentals",
+      "course_code": "MAT 305",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Composite Materials",
+      "course_code": "MAT 307",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Phase Equilibria",
+      "course_code": "MAT 308",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Transport Phenomena in Materials Processing",
+      "course_code": "MAT 309",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Materials Characterization",
+      "course_code": "MAT 312",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [
+          "ENS 202",
+          "MAT 204",
+          "ENS 205"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Mechanical Properties of Materials",
+      "course_code": "MAT 314",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 205"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Surface Chemistry",
+      "course_code": "MAT 401",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "NS 218"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Polymer Engineering: Processing and Applications",
+      "course_code": "MAT 402",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 205"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Polymer Physics",
+      "course_code": "MAT 404",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 205"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Advanced Materials Characterization",
+      "course_code": "MAT 405",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Nanoengineered Systems Fabrication",
+      "course_code": "MAT 406",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "NS 218"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Ceramics",
+      "course_code": "MAT 408",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 205",
+          "ENS 202",
+          "MAT 204",
+          "MAT 308"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Biomaterials Science and Biocompatibility",
+      "course_code": "MAT 416",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Glass Science and Engineering",
+      "course_code": "MAT 422",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 205",
+          "ENS 202"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Cement Chemistry and Technology",
+      "course_code": "MAT 423",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 205"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Materials Selection in Product Design",
+      "course_code": "MAT 424",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 205"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Special Topics in Materials Science and Nanoengineering: Adhesion Science and Engineering",
+      "course_code": "MAT 48000",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Special Topics in MAT: Failure Analysis",
+      "course_code": "MAT 48003",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Special Topics in MAT: Polymer Matrix Composites",
+      "course_code": "MAT 48004",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "NS 207",
+          "MAT 302",
+          "MAT 305",
+          "MAT 307"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Special Topics in MAT: Polymer Engineering/ Processing Fundamentals",
+      "course_code": "MAT 48005",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MAT 302"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Mechanical Systems I",
+      "course_code": "ME 301",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Mechanical Systems II",
+      "course_code": "ME 302",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Control System Design",
+      "course_code": "ME 303",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 206"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Motion Control Systems",
+      "course_code": "ME 304",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Power Electronics",
+      "course_code": "ME 305",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Fluid Dynamics",
+      "course_code": "ME 307",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "NS 101",
+          "MATH 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Industrial Control",
+      "course_code": "ME 308",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Heat and Mass Transfer",
+      "course_code": "ME 309",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ME 307"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Analysis and Synthesis of Mechanisms",
+      "course_code": "ME 312",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 204"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Plasmonics",
+      "course_code": "ME 402",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Mechanical Vibrations",
+      "course_code": "ME 405",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 214"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Mechatronics System Design",
+      "course_code": "ME 408",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 201",
+          "ENS 203",
+          "ME 301",
+          "ME 303"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Foundations of Microsystems",
+      "course_code": "ME 409",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to the Finite Element Method",
+      "course_code": "ME 412",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Computational Analysis and Simulation",
+      "course_code": "ME 415",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "MATH 201",
+            "MATH 202"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Renewable and Sustainable Energy Systems",
+      "course_code": "ME 420",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "ENS 207",
+            "ME 307"
+          ],
+          [
+            "ME 309",
+            "ME 307"
+          ],
+          [
+            "ENS 202",
+            "ME 309"
+          ],
+          "ENS 202"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Biomechatronics",
+      "course_code": "ME 437",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Advanced Vehicle Systems",
+      "course_code": "ME 441",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Management",
+      "course_code": "MGMT 201",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Disaster Awareness & Relief Management",
+      "course_code": "MGMT 213",
+      "credit": 2,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "MIT Sloan Seminars in Management I",
+      "course_code": "MGMT 307",
+      "credit": 1,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "MIT Sloan Seminars in Management II",
+      "course_code": "MGMT 308",
+      "credit": 1,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Business Strategy",
+      "course_code": "MGMT 401",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ACC 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Entrepreneurship",
+      "course_code": "MGMT 402",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "International Business",
+      "course_code": "MGMT 403",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Technology Management",
+      "course_code": "MGMT 404",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Turkish Managerial Context",
+      "course_code": "MGMT 405",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Globalization",
+      "course_code": "MGMT 406",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Business Law",
+      "course_code": "MGMT 407",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Ethics in Business and Sustainability",
+      "course_code": "MGMT 408",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Managing Non-Profit Organizations",
+      "course_code": "MGMT 409",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Corporate Governance and Social Responsibility",
+      "course_code": "MGMT 410",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ORG 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Agile Project Management",
+      "course_code": "MGMT 411",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Social Innovation and Entrepreneurship",
+      "course_code": "MGMT 412",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Strategic Innovation",
+      "course_code": "MGMT 413",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Negotiation Skills",
+      "course_code": "MGMT 414",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Entrepreneurial Technology Commercialization",
+      "course_code": "MGMT 415",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Strategy Execution",
+      "course_code": "MGMT 417",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Fundamentals of Family Business",
+      "course_code": "MGMT 418",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Succession & Transfer of Power in Family Business",
+      "course_code": "MGMT 419",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "New venture and Business Plan Development",
+      "course_code": "MGMT 420",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Technology Awareness and Implications of Technology Trends to Business Life and Processes",
+      "course_code": "MGMT 421",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Socio-Cultural and Institutional Perspectives on the Family Business",
+      "course_code": "MGMT 422",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MGMT 418"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Selected Topics in Management I",
+      "course_code": "MGMT 450",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Selected Topics in Management II",
+      "course_code": "MGMT 451",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Career and Professional Development Course",
+      "course_code": "MGMT 491",
+      "credit": 1,
+      "condition": {
+        "prerequisite": [
+          "MGMT 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Learning Through Action Project",
+      "course_code": "MGMT 492",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Entrepreneurial Skills Workshop I",
+      "course_code": "MGMT 495",
+      "credit": 1,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Entrepreneurial Skills Workshop II",
+      "course_code": "MGMT 496",
+      "credit": 1,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Independent Study",
+      "course_code": "MGMT 499",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Marketing",
+      "course_code": "MKTG 301",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Marketing Research",
+      "course_code": "MKTG 401",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MKTG 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Consumer Behavior",
+      "course_code": "MKTG 402",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MKTG 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "International Marketing",
+      "course_code": "MKTG 403",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MKTG 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Digital Marketing",
+      "course_code": "MKTG 404",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MKTG 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Marketing Strategy",
+      "course_code": "MKTG 405",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MKTG 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Brand Management",
+      "course_code": "MKTG 406",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MKTG 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Sales Management",
+      "course_code": "MKTG 407",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MKTG 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Public Relations and Influencer Marketing",
+      "course_code": "MKTG 408",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MKTG 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Pricing in Marketing",
+      "course_code": "MKTG 409",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MKTG 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Social Media Marketing",
+      "course_code": "MKTG 410",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MKTG 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Advertising and Promotion",
+      "course_code": "MKTG 411",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MKTG 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Marketing Channel Management and Retailing",
+      "course_code": "MKTG 412",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MKTG 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "AI for Consumers and Society",
+      "course_code": "MKTG 413",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Marketing Analytics",
+      "course_code": "MKTG 414",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MKTG 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Selected Topics in Marketing I",
+      "course_code": "MKTG 450",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MKTG 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Selected Topics in Marketing II",
+      "course_code": "MKTG 451",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "MKTG 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Einstein's Relativity",
+      "course_code": "NS 200",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Discovering Life",
+      "course_code": "NS 201",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "What is There in the Universe: Inside the Milky Way?",
+      "course_code": "NS 206",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "NS 101"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Organic Chemistry",
+      "course_code": "NS 207",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "General Biotechnology",
+      "course_code": "NS 208",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "What is there in the Universe: \"Beyond the Milky Way\"",
+      "course_code": "NS 209",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "NS 101"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Oscillations, Waves and Optics",
+      "course_code": "NS 214",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "NS 101"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Life on Earth",
+      "course_code": "NS 216",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Fundamentals of Nanoscience",
+      "course_code": "NS 218",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ENS 202"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Planetary Systems and Extrasolar Planets",
+      "course_code": "NS 222",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "NS 101"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Environmental Science",
+      "course_code": "NS 223",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Urban Agriculture",
+      "course_code": "NS 224",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Special Topics in NS: Astrobiology Fundamentals and Contemporary Research Topics",
+      "course_code": "NS 48000",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "CS 210"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Operations Management",
+      "course_code": "OPIM 301",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "MGMT 203",
+            "MATH 306"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Supply Chain Management",
+      "course_code": "OPIM 401",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "OPIM 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Service Operations Management",
+      "course_code": "OPIM 403",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "OPIM 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Decision Making Under Uncertainty",
+      "course_code": "OPIM 410",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "MGMT 203",
+            "MATH 306"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Fashion Industry Operations and Pricing",
+      "course_code": "OPIM 411",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "OPIM 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Strategic Procurement",
+      "course_code": "OPIM 412",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Quality Improvement with Six Sigma",
+      "course_code": "OPIM 416",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "MGMT 203",
+            "MATH 306"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Selected Topics in Operations Management I",
+      "course_code": "OPIM 450",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Selected Topics in Operations Management II",
+      "course_code": "OPIM 451",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Selected Topics in Management Information Systems I",
+      "course_code": "OPIM 452",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Selected Topics in Management Information Systems II",
+      "course_code": "OPIM 453",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Organizations and Organizing",
+      "course_code": "ORG 301",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Organizational Behavior",
+      "course_code": "ORG 302",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Human Resources Management",
+      "course_code": "ORG 401",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ORG 302"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Organizational Design",
+      "course_code": "ORG 402",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "ORG 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Cross-Cultural Management",
+      "course_code": "ORG 403",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Creativity & Leading  Innovations",
+      "course_code": "ORG 404",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Selected Topics in Organizations I",
+      "course_code": "ORG 450",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Selected Topics in Organizations II",
+      "course_code": "ORG 451",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Problems of Philosophy",
+      "course_code": "PHIL 202",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Philosophy and Film",
+      "course_code": "PHIL 224",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Philosophy of Science",
+      "course_code": "PHIL 300",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Philosophy of Social Sciences",
+      "course_code": "PHIL 301",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Philosophy of Mind",
+      "course_code": "PHIL 310",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Emotion and Reason",
+      "course_code": "PHIL 313",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Symbolic Logic",
+      "course_code": "PHIL 321",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Philosophy of Art",
+      "course_code": "PHIL 322",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Imagination and Play",
+      "course_code": "PHIL 323",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Philosophy of Language",
+      "course_code": "PHIL 330",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Bioethics",
+      "course_code": "PHIL 340",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Philosophy of Biology",
+      "course_code": "PHIL 342",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Independent Study",
+      "course_code": "PHIL 399",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Epistemology",
+      "course_code": "PHIL 401",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Personhood and Personal Identity",
+      "course_code": "PHIL 421",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "European Humanism and After",
+      "course_code": "PHIL 425",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Science and Society",
+      "course_code": "PHIL 450",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Modern Physics",
+      "course_code": "PHYS 211",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "NS 101",
+          "MATH 101"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Solid State Physics",
+      "course_code": "PHYS 302",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PHYS 303"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Quantum Mechanics I",
+      "course_code": "PHYS 303",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "NS 102",
+          "MATH 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Quantum Mechanics II",
+      "course_code": "PHYS 304",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PHYS 303"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Classical Mechanics",
+      "course_code": "PHYS 401",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Electromagnetic Theory I",
+      "course_code": "PHYS 411",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Statistical Mechanics",
+      "course_code": "PHYS 412",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Phase Transitions and Renormalization-Group Theory",
+      "course_code": "PHYS 438",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Modern Topics in Condensed Matter Physics",
+      "course_code": "PHYS 492",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PHYS 302"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Comparative Politics",
+      "course_code": "POLS 250",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Borders, Citizens, Immigrants, Refugees",
+      "course_code": "POLS 251",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Rights and Their History",
+      "course_code": "POLS 252",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Nations and Nationalism",
+      "course_code": "POLS 271",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Political Theory I",
+      "course_code": "POLS 301",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Issues and Concepts in Political Philosophy",
+      "course_code": "POLS 302",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "POLS 301",
+            "SPS 102"
+          ],
+          "SPS 101"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Elections And Political Participation",
+      "course_code": "POLS 303",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Political Ideologies in Modern Turkey",
+      "course_code": "POLS 305",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Politics of Development",
+      "course_code": "POLS 307",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Politics of Southern Europe",
+      "course_code": "POLS 348",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Politics of South-East Asia",
+      "course_code": "POLS 349",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 102",
+          "SPS 101"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Transitions to Democracy in Eastern Europe",
+      "course_code": "POLS 350",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Dynamics of Political Change",
+      "course_code": "POLS 351",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Turkish Politics I",
+      "course_code": "POLS 352",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Turkish Politics II",
+      "course_code": "POLS 353",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "POLS 352"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Politics of Migration",
+      "course_code": "POLS 354",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Constitutional Law",
+      "course_code": "POLS 364",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Law and Politics",
+      "course_code": "POLS 365",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Liberalism and its Critics",
+      "course_code": "POLS 372",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Modern Dictatorships and the One-Party Period Political System in Turkey",
+      "course_code": "POLS 392",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Political Parties in Turkey",
+      "course_code": "POLS 393",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Independent Study",
+      "course_code": "POLS 399",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Ancient, Medieval and Early Political Theory",
+      "course_code": "POLS 400",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Political Psychology",
+      "course_code": "POLS 403",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Comparative Party Systems and Electoral Behavior",
+      "course_code": "POLS 404",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Political Thought: Issues, Concepts, Debates",
+      "course_code": "POLS 405",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Greek-Turkish Relations",
+      "course_code": "POLS 409",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "POLS 301",
+          "IR 201",
+          [
+            "SPS 102",
+            "SPS 101"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "American Politics and Government",
+      "course_code": "POLS 410",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "POLS 250",
+          "IR 201",
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Philosophical Approaches to Modernity",
+      "course_code": "POLS 421",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Politics and Culture",
+      "course_code": "POLS 422",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Civil Society",
+      "course_code": "POLS 425",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Continental Political Thought",
+      "course_code": "POLS 426",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102",
+          "POLS 301"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Governance, Politics and Public Policy",
+      "course_code": "POLS 431",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Formal Modelling and Political Analysis I",
+      "course_code": "POLS 434",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Governance of the Turkish Metropolis",
+      "course_code": "POLS 440",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "NGO Governance",
+      "course_code": "POLS 441",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Latin American Politics",
+      "course_code": "POLS 446",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Conflicts in the Middle East",
+      "course_code": "POLS 448",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Rise and Fall of Democracy",
+      "course_code": "POLS 455",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "The Politics of Authoritarian Regimes",
+      "course_code": "POLS 457",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "POLS 250"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Analytical Approaches To The European Union",
+      "course_code": "POLS 462",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Nietzsche",
+      "course_code": "POLS 472",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Political Theory II",
+      "course_code": "POLS 473",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Ethnicity and Nationalism",
+      "course_code": "POLS 483",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "European Politics",
+      "course_code": "POLS 491",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "European Union: Politics, Policies and Governance",
+      "course_code": "POLS 492",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Comparative Local Government",
+      "course_code": "POLS 493",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Middle Eastern Politics and Government",
+      "course_code": "POLS 495",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Reform and the History of Ideas in the Ottoman Empire in the 19th century",
+      "course_code": "POLS 496",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Guided Project I",
+      "course_code": "PROJ 301",
+      "credit": 1,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Guided Project II",
+      "course_code": "PROJ 401",
+      "credit": 2,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Research Methods for Political Science and International Relations I",
+      "course_code": "PSIR 311",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Research Methods for Political Science and International Relations II",
+      "course_code": "PSIR 401",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSIR 311"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Mind and Behavior",
+      "course_code": "PSY 201",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Research Methods and Statistics for Psychology I",
+      "course_code": "PSY 202",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Stress and Well-Being",
+      "course_code": "PSY 203",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Research Methods and Statistics for Psychology II",
+      "course_code": "PSY 304",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 102",
+          "PSY 202"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Experimental Psychology",
+      "course_code": "PSY 305",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 102",
+          "PSY 201",
+          "PSY 202"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Testing and Measurement",
+      "course_code": "PSY 306",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201",
+          "SPS 102",
+          "PSY 202"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Cognitive Processes",
+      "course_code": "PSY 310",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Emotion",
+      "course_code": "PSY 311",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Sensation / Perception",
+      "course_code": "PSY 312",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Language",
+      "course_code": "PSY 314",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Memory",
+      "course_code": "PSY 315",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201",
+          "SPS 102",
+          "PSY 310"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Attention",
+      "course_code": "PSY 316",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Learning",
+      "course_code": "PSY 317",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Developmental Psychology",
+      "course_code": "PSY 320",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Lifespan Psychological Science",
+      "course_code": "PSY 322",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Human Bonding",
+      "course_code": "PSY 323",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Infant Development",
+      "course_code": "PSY 325",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 102",
+          [
+            "PSY 320",
+            "PSY 201"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Social Psychology",
+      "course_code": "PSY 340",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Applied Social Psychology",
+      "course_code": "PSY 341",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Relationship Science",
+      "course_code": "PSY 343",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Group Processes",
+      "course_code": "PSY 344",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Stress and Well-Being in Adulthood",
+      "course_code": "PSY 345",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "PSY 201",
+            "PSY 301"
+          ],
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Neuroscience",
+      "course_code": "PSY 350",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 102",
+            "NS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Abnormal Behavior",
+      "course_code": "PSY 360",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Personality",
+      "course_code": "PSY 361",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Clinical Applications of Psychology",
+      "course_code": "PSY 362",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Individual Differences",
+      "course_code": "PSY 363",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Clinical Interviewing",
+      "course_code": "PSY 364",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201",
+          "SPS 102",
+          [
+            "PSY 360",
+            "PSY 362",
+            "PSY 365"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Family and Couple Therapy",
+      "course_code": "PSY 365",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Child and Adolescent Psychopathology",
+      "course_code": "PSY 366",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 320"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Adolescent Development and Mental Health",
+      "course_code": "PSY 368",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Independent Study I",
+      "course_code": "PSY 398",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201",
+          "SPS 102",
+          "PSY 202"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Independent Study II",
+      "course_code": "PSY 399",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201",
+          "SPS 102",
+          "PSY 202"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Advanced Research in Psychology",
+      "course_code": "PSY 403",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201",
+          "PSY 202"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "EEG Methods and Analyses",
+      "course_code": "PSY 407",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "CS 201",
+            "CS 210",
+            "PSY 202"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Advanced Topics in Social and Cognitive Psychology",
+      "course_code": "PSY 410",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Cognition, Emotion and Psychopathology",
+      "course_code": "PSY 411",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "PSY 310",
+            "PSY 311"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Visual Cognition",
+      "course_code": "PSY 412",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Selected topics in Language and Communication",
+      "course_code": "PSY 414",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 314"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Seminar in Memory and Attention",
+      "course_code": "PSY 415",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Culture and Cognition",
+      "course_code": "PSY 416",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201",
+          "PSY 310"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Cognitive Development",
+      "course_code": "PSY 421",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 320"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Social Development",
+      "course_code": "PSY 422",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 320"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Language Development in Infancy and Childhood",
+      "course_code": "PSY 424",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 320"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Social Cognition",
+      "course_code": "PSY 442",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 340"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Psychology of the Self",
+      "course_code": "PSY 443",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Intergroup Relationships",
+      "course_code": "PSY 444",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Selected Topics in Social Psychology",
+      "course_code": "PSY 445",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 340"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Selected Topics in Neuroscience",
+      "course_code": "PSY 450",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 350"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Cognitive Neuroscience",
+      "course_code": "PSY 452",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "PSY 201",
+            "PSY 310",
+            "PSY 350"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Clinical Insights from Basic Psychological Science",
+      "course_code": "PSY 467",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Foundations of Infant Mental Heath",
+      "course_code": "PSY 469",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 201",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Psychology in the Public Interest",
+      "course_code": "PSY 480",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Selected Topics in Applied Psychology",
+      "course_code": "PSY 481",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "PSY 340"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Social Theory",
+      "course_code": "SOC 201",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Perspectives on Law and Society",
+      "course_code": "SOC 203",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Sociology of Science",
+      "course_code": "SOC 300",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Political Sociology",
+      "course_code": "SOC 301",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Corporate Governance and Social Responsibility",
+      "course_code": "SOC 305",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Sociology of Religion",
+      "course_code": "SOC 308",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Turkish Social Thought",
+      "course_code": "SOC 313",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Qualitative Research Methods",
+      "course_code": "SOC 318",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Urban Sociology",
+      "course_code": "SOC 321",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Science, Religion and Society",
+      "course_code": "SOC 350",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Media and Politics",
+      "course_code": "SOC 402",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Media Research Workshop",
+      "course_code": "SOC 404",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Exploring the Legal Profession",
+      "course_code": "SOC 406",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Religion and Politics",
+      "course_code": "SOC 408",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Sociology of Mobilities",
+      "course_code": "SOC 420",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Power, Economy, and Society",
+      "course_code": "SOC 425",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SOC 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Gender and Work",
+      "course_code": "SOC 426",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Sexualities, Sociabilities",
+      "course_code": "SOC 432",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "New Social Movements",
+      "course_code": "SOC 444",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Fundamentals of Scientific Inquiry and Statistical Reasoning for Social Sciences",
+      "course_code": "SPS 201",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Quantitative Methods",
+      "course_code": "SPS 312",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Analysis of Social Networks",
+      "course_code": "SPS 315",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Approaches to Ethnic Conflict",
+      "course_code": "SPS 320",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Football, Nationality and the State",
+      "course_code": "SPS 322",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Alcibiades and Philoctetes: Individual?s Talents and Rights in an Oligarchical Society",
+      "course_code": "SPS 325",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Global Environmental Challenges",
+      "course_code": "SPS 374",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Climate Change and Environmental Politics",
+      "course_code": "SPS 384",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "State Formation",
+      "course_code": "SPS 442",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "SPS 101",
+            "SPS 102"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Military in Society and Politics",
+      "course_code": "SPS 452",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "SPS 101",
+          "SPS 102"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Digital Humanities",
+      "course_code": "TS 320",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Visual Language I",
+      "course_code": "VA 201",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Visual Language II",
+      "course_code": "VA 202",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [
+          "VA 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Language of Drawing I",
+      "course_code": "VA 203",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Language of Drawing II",
+      "course_code": "VA 204",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "VA 203"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Introduction to Photography",
+      "course_code": "VA 228",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Design with Typography",
+      "course_code": "VA 234",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "VA 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Art Studio I",
+      "course_code": "VA 301",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "VA 201",
+          "VA 203"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Art Studio II",
+      "course_code": "VA 302",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "VA 301",
+            "VA 303"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Design Studio I",
+      "course_code": "VA 303",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "VA 201",
+          "VA 203"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Design Studio II",
+      "course_code": "VA 304",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          [
+            "VA 301",
+            "VA 303"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Art and Design Practices in the City",
+      "course_code": "VA 311",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "History of Visual Communication",
+      "course_code": "VA 312",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Visual Culture",
+      "course_code": "VA 315",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Fine Art Practice",
+      "course_code": "VA 321",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "VA 203"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Digital Art Practice",
+      "course_code": "VA 322",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "VA 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Figure Drawing",
+      "course_code": "VA 323",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "VA 203"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Advanced Drawing",
+      "course_code": "VA 324",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "VA 323"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Studio Photography and Lighting Techniques",
+      "course_code": "VA 327",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Digital and Photographic Imaging",
+      "course_code": "VA 328",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Photography and Expression",
+      "course_code": "VA 329",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "VA 328"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Illustration as Communication",
+      "course_code": "VA 331",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "VA 201",
+          "VA 203"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Content Creation and Design for Websites",
+      "course_code": "VA 333",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Sound and Image",
+      "course_code": "VA 335",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Interactive Sound",
+      "course_code": "VA 336",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Independent Study",
+      "course_code": "VA 399",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Art Studio III",
+      "course_code": "VA 401",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [
+          "VA 201",
+          "VA 203"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Art Studio IV",
+      "course_code": "VA 402",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [
+          [
+            "VA 401",
+            "VA 403"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Design Studio III",
+      "course_code": "VA 403",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [
+          "VA 201",
+          "VA 203"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Design Studio IV",
+      "course_code": "VA 404",
+      "credit": 4,
+      "condition": {
+        "prerequisite": [
+          [
+            "VA 401",
+            "VA 403"
+          ]
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "History of Digital and Electronic Arts",
+      "course_code": "VA 416",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Concepts & Debates in Contemporary Art",
+      "course_code": "VA 420",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Advanced Topics in Typography",
+      "course_code": "VA 424",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "VA 234"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Art Analysis: Theory and Criticism",
+      "course_code": "VA 430",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Videography and Narrative Making",
+      "course_code": "VA 431",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "VA 203"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "3D Modelling",
+      "course_code": "VA 433",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "3D Animation",
+      "course_code": "VA 434",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Experimental Film and Video",
+      "course_code": "VA 437",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "VA 431"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Envisioning Information",
+      "course_code": "VA 439",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "VA 201"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Motion Graphics and Art",
+      "course_code": "VA 440",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Visiting Artist Studio",
+      "course_code": "VA 441",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Visiting Designer Studio",
+      "course_code": "VA 442",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Issues in Contemporary Performance Art",
+      "course_code": "VA 445",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "History and Aesthetics of Electroacoustic Music",
+      "course_code": "VA 446",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Construction/Deconstruction in 3 Dimensional Space",
+      "course_code": "VA 450",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Design Thinking",
+      "course_code": "VA 453",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Advanced Illustration",
+      "course_code": "VA 461",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [
+          "VA 331"
+        ],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Summer Project I",
+      "course_code": "VA 481",
+      "credit": 2,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Summer Project II",
+      "course_code": "VA 482",
+      "credit": 2,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Professional Practice as a Designer",
+      "course_code": "VA 490",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "The Business of Art",
+      "course_code": "VIS 308",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "The New Media",
+      "course_code": "VIS 310",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    },
+    {
+      "course_name": "Museums and Contemporary Arts",
+      "course_code": "VIS 412",
+      "credit": 3,
+      "condition": {
+        "prerequisite": [],
+        "general": []
+      }
+    }
+]
+

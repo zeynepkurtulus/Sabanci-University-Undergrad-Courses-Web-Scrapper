@@ -1,0 +1,1720 @@
+[
+    {
+        "course_code": "BIO 304",
+        "course_type": "core",
+        "course_name": "Biological Function and Structure",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "BIO 306",
+        "course_type": "core",
+        "course_name": "Microbiology",
+        "ects_credits": 7,
+        "su_credits": 4,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "BIO 321",
+                "BIO 332"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "BIO 308",
+        "course_type": "core",
+        "course_name": "Plant Physiology",
+        "ects_credits": 7,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 12:40-14:30 FENS L030",
+                        "Fri 13:40-14:30 FENS L067",
+                        "Fri 14:40-17:30 FENS 2053"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BIO 310",
+        "course_type": "core",
+        "course_name": "Introduction to Bioinformatics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "MATH 203",
+                "IF 100"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 11:40-12:30 FENS L030",
+                        "Thu 08:40-10:30 FENS G029",
+                        "Fri 11:40-13:30 FASS G025"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BIO 322",
+        "course_type": "core",
+        "course_name": "Biochemistry II",
+        "ects_credits": 5,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 14:40-16:30 FENS 2019",
+                        "Tue 10:40-11:30 FENS L065",
+                        "Wed 17:40-19:30 FENS L065"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BIO 335",
+        "course_type": "core",
+        "course_name": "Analytical Techniques",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 08:40-09:30 FENS L047",
+                        "Thu 13:40-15:30 FASS 1097",
+                        "Tue 09:40-12:30 FENS G049"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BIO 363",
+        "course_type": "core",
+        "course_name": "Ecology",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "BIO 370",
+        "course_type": "core",
+        "course_name": "Mammalian Cell Culture",
+        "ects_credits": 7,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "BIO 404",
+        "course_type": "core",
+        "course_name": "Plant Biotechnology",
+        "ects_credits": 5,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "BIO 407",
+        "course_type": "core",
+        "course_name": "Multicellular Organization",
+        "ects_credits": 5,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "BIO 415",
+        "course_type": "core",
+        "course_name": "Plant Nutrition",
+        "ects_credits": 5,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "BIO 421",
+        "course_type": "core",
+        "course_name": "Tissue Engineering",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "BIO 301",
+                "BIO 332"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "BIO 423",
+        "course_type": "core",
+        "course_name": "Neurobiology",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "BIO 436",
+        "course_type": "core",
+        "course_name": "Cancer Biology",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 08:40-10:30 FENS L061",
+                        "Fri 11:40-12:30 FENS L045"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BIO 444",
+        "course_type": "core",
+        "course_name": "Bioengineering",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "BIO 445",
+        "course_type": "core",
+        "course_name": "Plant Tissue Culture Techniques",
+        "ects_credits": 7,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "BIO 446",
+        "course_type": "core",
+        "course_name": "Biology of Aging",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 09:40-10:30 FENS L047",
+                        "Wed 09:40-11:30 FENS G035"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BIO 452",
+        "course_type": "core",
+        "course_name": "Immunology",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "NS 201"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "BIO 467",
+        "course_type": "core",
+        "course_name": "Signal Transduction",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "NS 201"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 12:40-14:30 FENS G029",
+                        "Wed 16:40-17:30 FENS G029"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CHEM 202",
+        "course_type": "core",
+        "course_name": "Chemical Kinetics",
+        "ects_credits": 7,
+        "su_credits": 4,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 10:40-12:30 FENS L067",
+                        "Fri 11:40-12:30 FMAN G041",
+                        "Mon 16:40-19:30 FENS G049"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CHEM 301",
+        "course_type": "core",
+        "course_name": "Inorganic Chemistry",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "CHEM 302",
+        "course_type": "core",
+        "course_name": "Analytical Chemistry",
+        "ects_credits": 7,
+        "su_credits": 4,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 10:40-11:30 FENS G025",
+                        "Thu 13:40-15:30 FASS G048"
+                    ]
+                ]
+            },
+            {
+                "section": "A",
+                "times": [
+                    [
+                        "Tue 16:40-19:30 FENS G049"
+                    ]
+                ]
+            },
+            {
+                "section": "B",
+                "times": [
+                    [
+                        "Fri 15:40-18:30 FENS G050"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS 201",
+        "course_type": "core",
+        "course_name": "Programming Fundamentals",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "IF 100"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "A",
+                "times": [
+                    [
+                        "Mon 12:40-14:30 FMAN 1099",
+                        "Wed 12:40-13:30 FMAN 1099"
+                    ]
+                ]
+            },
+            {
+                "section": "B",
+                "times": [
+                    [
+                        "Mon 09:40-11:30 FASS G062",
+                        "Wed 13:40-14:30 FASS G062"
+                    ]
+                ]
+            },
+            {
+                "section": "A1",
+                "times": [
+                    [
+                        "Thu 10:40-12:30 FASS G052"
+                    ]
+                ]
+            },
+            {
+                "section": "A2",
+                "times": [
+                    [
+                        "Thu 10:40-12:30 FENS L029"
+                    ]
+                ]
+            },
+            {
+                "section": "A3",
+                "times": [
+                    [
+                        "Thu 10:40-12:30 FENS L027"
+                    ]
+                ]
+            },
+            {
+                "section": "A4",
+                "times": [
+                    [
+                        "Thu 10:40-12:30 FASS G049"
+                    ]
+                ]
+            },
+            {
+                "section": "B1",
+                "times": [
+                    [
+                        "Thu 14:40-16:30 FENS L027"
+                    ]
+                ]
+            },
+            {
+                "section": "B2",
+                "times": [
+                    [
+                        "Thu 14:40-16:30 FENS L029"
+                    ]
+                ]
+            },
+            {
+                "section": "B3",
+                "times": [
+                    [
+                        "Thu 14:40-16:30 FASS G049"
+                    ]
+                ]
+            },
+            {
+                "section": "B4",
+                "times": [
+                    [
+                        "Thu 14:40-16:30 FASS G052"
+                    ]
+                ]
+            },
+            {
+                "section": "C1",
+                "times": [
+                    [
+                        "Fri 10:40-12:30 FENS L027"
+                    ]
+                ]
+            },
+            {
+                "section": "C2",
+                "times": [
+                    [
+                        "Fri 10:40-12:30 FENS L029"
+                    ]
+                ]
+            },
+            {
+                "section": "C3",
+                "times": [
+                    [
+                        "Fri 10:40-12:30 FASS G056"
+                    ]
+                ]
+            },
+            {
+                "section": "C4",
+                "times": [
+                    [
+                        "Fri 10:40-12:30 FASS G052"
+                    ]
+                ]
+            },
+            {
+                "section": "D1",
+                "times": [
+                    [
+                        "Fri 15:40-17:30 FENS L029"
+                    ]
+                ]
+            },
+            {
+                "section": "D2",
+                "times": [
+                    [
+                        "Fri 15:40-17:30 FASS 2031"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS 204",
+        "course_type": "core",
+        "course_name": "Advanced Programming",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "CS 201"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 16:40-18:30 FMAN 1099",
+                        "Wed 12:40-13:30 FENS G077"
+                    ]
+                ]
+            },
+            {
+                "section": "A1",
+                "times": [
+                    [
+                        "Thu 12:40-14:30 FASS 1076-1078"
+                    ]
+                ]
+            },
+            {
+                "section": "A2",
+                "times": [
+                    [
+                        "Thu 12:40-14:30 FASS G022"
+                    ]
+                ]
+            },
+            {
+                "section": "A3",
+                "times": [
+                    [
+                        "Thu 12:40-14:30 FASS G052"
+                    ]
+                ]
+            },
+            {
+                "section": "B1",
+                "times": [
+                    [
+                        "Fri 10:40-12:30 FENS G035"
+                    ]
+                ]
+            },
+            {
+                "section": "B2",
+                "times": [
+                    [
+                        "Fri 10:40-12:30 FASS G049"
+                    ]
+                ]
+            },
+            {
+                "section": "B3",
+                "times": [
+                    [
+                        "Fri 10:40-12:30 FENS G032"
+                    ]
+                ]
+            },
+            {
+                "section": "C1",
+                "times": [
+                    [
+                        "Fri 15:40-17:30 FASS G049"
+                    ]
+                ]
+            },
+            {
+                "section": "C2",
+                "times": [
+                    [
+                        "Fri 15:40-17:30 FASS G052"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS 300",
+        "course_type": "core",
+        "course_name": "Data Structures",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "CS 204"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 16:40-17:30 UC G030",
+                        "Tue 12:40-14:30 UC G030"
+                    ]
+                ]
+            },
+            {
+                "section": "A1",
+                "times": [
+                    [
+                        "Thu 08:40-10:30 FENS G035"
+                    ]
+                ]
+            },
+            {
+                "section": "A2",
+                "times": [
+                    [
+                        "Thu 08:40-10:30 FASS 1089"
+                    ]
+                ]
+            },
+            {
+                "section": "B1",
+                "times": [
+                    [
+                        "Thu 16:40-18:30 FENS G032"
+                    ]
+                ]
+            },
+            {
+                "section": "B2",
+                "times": [
+                    [
+                        "Thu 16:40-18:30 FENS G035"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS 301",
+        "course_type": "core",
+        "course_name": "Algorithms",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "MATH 204",
+                "CS 300"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 16:40-17:30 FENS G077",
+                        "Fri 14:40-16:30 FENS G077"
+                    ]
+                ]
+            },
+            {
+                "section": "A1",
+                "times": [
+                    [
+                        "Wed 18:40-19:30 FASS G062"
+                    ]
+                ]
+            },
+            {
+                "section": "A2",
+                "times": [
+                    [
+                        "Wed 18:40-19:30 UC G030"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS 306",
+        "course_type": "core",
+        "course_name": "Database Systems",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "CS 204"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 10:40-12:30 UC G030",
+                        "Tue 14:40-15:30 UC G030"
+                    ]
+                ]
+            },
+            {
+                "section": "A",
+                "times": [
+                    [
+                        "Mon 16:40-17:30 FENS L045"
+                    ]
+                ]
+            },
+            {
+                "section": "B",
+                "times": [
+                    [
+                        "Wed 17:40-18:30 FENS L045"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS 404",
+        "course_type": "core",
+        "course_name": "Artificial Intelligence",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "CS 201"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 14:40-16:30 FENS G077",
+                        "Thu 16:40-17:30 FMAN 1099"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ENS 202",
+        "course_type": "core",
+        "course_name": "Thermodynamics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "NS 102"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ENS 205",
+        "course_type": "core",
+        "course_name": "Introduction to Materials Science",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "NS 102",
+                "MATH 102"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 14:40-16:30 FMAN 1099",
+                        "Thu 16:40-17:30 FENS G077"
+                    ]
+                ]
+            },
+            {
+                "section": "A1",
+                "times": [
+                    [
+                        "Fri 08:40-10:30 FASS G049"
+                    ]
+                ]
+            },
+            {
+                "section": "A2",
+                "times": [
+                    [
+                        "Fri 08:40-10:30 FASS G052"
+                    ]
+                ]
+            },
+            {
+                "section": "B1",
+                "times": [
+                    [
+                        "Fri 10:40-12:30 FENS L047"
+                    ]
+                ]
+            },
+            {
+                "section": "B2",
+                "times": [
+                    [
+                        "Fri 10:40-12:30 FASS G043"
+                    ]
+                ]
+            },
+            {
+                "section": "C1",
+                "times": [
+                    [
+                        "Fri 12:40-14:30 FASS 1097"
+                    ]
+                ]
+            },
+            {
+                "section": "C2",
+                "times": [
+                    [
+                        "Fri 12:40-14:30 FASS G049"
+                    ]
+                ]
+            },
+            {
+                "section": "D1",
+                "times": [
+                    [
+                        "Fri 14:40-16:30 FASS 1098"
+                    ]
+                ]
+            },
+            {
+                "section": "D2",
+                "times": [
+                    [
+                        "Fri 14:40-16:30 FASS 1102"
+                    ]
+                ]
+            },
+            {
+                "section": "E1",
+                "times": [
+                    [
+                        "Fri 16:40-18:30 FENS L065"
+                    ]
+                ]
+            },
+            {
+                "section": "E2",
+                "times": [
+                    [
+                        "Fri 16:40-18:30 FENS L048"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ENS 206",
+        "course_type": "core",
+        "course_name": "Systems Modeling and Control",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "MATH 102",
+                "MATH 201"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 08:40-09:30 FASS G062",
+                        "Thu 08:40-10:30 FASS G062"
+                    ]
+                ]
+            },
+            {
+                "section": "A",
+                "times": [
+                    [
+                        "Fri 08:40-10:30 FASS 1097"
+                    ]
+                ]
+            },
+            {
+                "section": "B",
+                "times": [
+                    [
+                        "Fri 12:40-14:30 FASS 1096"
+                    ]
+                ]
+            },
+            {
+                "section": "C",
+                "times": [
+                    [
+                        "Fri 14:40-16:30 FASS 1089"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MATH 202",
+        "course_type": "core",
+        "course_name": "Differential Equations",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "MATH 102"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 08:40-09:30 UC G030",
+                        "Wed 14:40-16:30 UC G030"
+                    ]
+                ]
+            },
+            {
+                "section": "A1",
+                "times": [
+                    [
+                        "Wed 16:40-17:30 FENS G025"
+                    ]
+                ]
+            },
+            {
+                "section": "A2",
+                "times": [
+                    [
+                        "Wed 16:40-17:30 FENS L048"
+                    ]
+                ]
+            },
+            {
+                "section": "B1",
+                "times": [
+                    [
+                        "Wed 17:40-18:30 FENS L048"
+                    ]
+                ]
+            },
+            {
+                "section": "B2",
+                "times": [
+                    [
+                        "Wed 17:40-18:30 FASS G050"
+                    ]
+                ]
+            },
+            {
+                "section": "C1",
+                "times": [
+                    [
+                        "Thu 17:40-18:30 FENS L058"
+                    ]
+                ]
+            },
+            {
+                "section": "C2",
+                "times": [
+                    [
+                        "Thu 17:40-18:30 FENS L048"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MATH 203",
+        "course_type": "core",
+        "course_name": "Introduction to Probability",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "MATH 102"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "A",
+                "times": [
+                    [
+                        "Wed 09:40-10:30 FMAN 1099",
+                        "Fri 12:40-14:30 FMAN 1099"
+                    ]
+                ]
+            },
+            {
+                "section": "B",
+                "times": [
+                    [
+                        "Wed 08:40-09:30 FMAN 1099",
+                        "Fri 08:40-10:30 FMAN 1099"
+                    ]
+                ]
+            },
+            {
+                "section": "A1",
+                "times": [
+                    [
+                        "Mon 09:40-10:30 FASS 1097"
+                    ]
+                ]
+            },
+            {
+                "section": "A10",
+                "times": [
+                    [
+                        "Mon 14:40-15:30 FASS G025"
+                    ]
+                ]
+            },
+            {
+                "section": "A11",
+                "times": [
+                    [
+                        "Mon 14:40-15:30 FENS G029"
+                    ]
+                ]
+            },
+            {
+                "section": "A12",
+                "times": [
+                    [
+                        "Mon 14:40-15:30 FENS L029"
+                    ]
+                ]
+            },
+            {
+                "section": "A2",
+                "times": [
+                    [
+                        "Mon 09:40-10:30 FASS 1089"
+                    ]
+                ]
+            },
+            {
+                "section": "A3",
+                "times": [
+                    [
+                        "Mon 09:40-10:30 FASS G025"
+                    ]
+                ]
+            },
+            {
+                "section": "A4",
+                "times": [
+                    [
+                        "Mon 09:40-10:30 FENS L067"
+                    ]
+                ]
+            },
+            {
+                "section": "A5",
+                "times": [
+                    [
+                        "Mon 11:40-12:30 FASS 1098"
+                    ]
+                ]
+            },
+            {
+                "section": "A6",
+                "times": [
+                    [
+                        "Mon 11:40-12:30 FASS 1101"
+                    ]
+                ]
+            },
+            {
+                "section": "A7",
+                "times": [
+                    [
+                        "Mon 11:40-12:30 FENS L062"
+                    ]
+                ]
+            },
+            {
+                "section": "A8",
+                "times": [
+                    [
+                        "Mon 11:40-12:30 FENS L067"
+                    ]
+                ]
+            },
+            {
+                "section": "A9",
+                "times": [
+                    [
+                        "Mon 14:40-15:30 FENS L067"
+                    ]
+                ]
+            },
+            {
+                "section": "B1",
+                "times": [
+                    [
+                        "Tue 10:40-11:30 FENS L048"
+                    ]
+                ]
+            },
+            {
+                "section": "B10",
+                "times": [
+                    [
+                        "Tue 13:40-14:30 FENS L048"
+                    ]
+                ]
+            },
+            {
+                "section": "B11",
+                "times": [
+                    [
+                        "Tue 13:40-14:30 FENS G025"
+                    ]
+                ]
+            },
+            {
+                "section": "B12",
+                "times": [
+                    [
+                        "Tue 13:40-14:30 FENS L061"
+                    ]
+                ]
+            },
+            {
+                "section": "B2",
+                "times": [
+                    [
+                        "Tue 10:40-11:30 FENS G025"
+                    ]
+                ]
+            },
+            {
+                "section": "B3",
+                "times": [
+                    [
+                        "Tue 10:40-11:30 FENS L061"
+                    ]
+                ]
+            },
+            {
+                "section": "B4",
+                "times": [
+                    [
+                        "Tue 10:40-11:30 FENS G015"
+                    ]
+                ]
+            },
+            {
+                "section": "B5",
+                "times": [
+                    [
+                        "Tue 11:40-12:30 FENS L058"
+                    ]
+                ]
+            },
+            {
+                "section": "B6",
+                "times": [
+                    [
+                        "Tue 11:40-12:30 FENS L048"
+                    ]
+                ]
+            },
+            {
+                "section": "B7",
+                "times": [
+                    [
+                        "Tue 11:40-12:30 FENS G025"
+                    ]
+                ]
+            },
+            {
+                "section": "B8",
+                "times": [
+                    [
+                        "Tue 11:40-12:30 FENS L061"
+                    ]
+                ]
+            },
+            {
+                "section": "B9",
+                "times": [
+                    [
+                        "Tue 13:40-14:30 FENS L029"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MATH 204",
+        "course_type": "core",
+        "course_name": "Discrete Mathematics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "A",
+                "times": [
+                    [
+                        "Tue 17:40-18:30 FENS G077",
+                        "Thu 10:40-12:30 FENS G077"
+                    ]
+                ]
+            },
+            {
+                "section": "B",
+                "times": [
+                    [
+                        "Tue 16:40-17:30 FENS G077",
+                        "Thu 14:40-16:30 FENS G077"
+                    ]
+                ]
+            },
+            {
+                "section": "A1",
+                "times": [
+                    [
+                        "Fri 10:40-11:30 FENS L035"
+                    ]
+                ]
+            },
+            {
+                "section": "A2",
+                "times": [
+                    [
+                        "Fri 10:40-11:30 FENS G029"
+                    ]
+                ]
+            },
+            {
+                "section": "A3",
+                "times": [
+                    [
+                        "Fri 10:40-11:30 FASS 1081"
+                    ]
+                ]
+            },
+            {
+                "section": "A4",
+                "times": [
+                    [
+                        "Fri 10:40-11:30 FENS G025"
+                    ]
+                ]
+            },
+            {
+                "section": "B1",
+                "times": [
+                    [
+                        "Fri 11:40-12:30 FENS L035"
+                    ]
+                ]
+            },
+            {
+                "section": "B2",
+                "times": [
+                    [
+                        "Fri 11:40-12:30 FENS G029"
+                    ]
+                ]
+            },
+            {
+                "section": "B3",
+                "times": [
+                    [
+                        "Fri 11:40-12:30 FENS G025"
+                    ]
+                ]
+            },
+            {
+                "section": "B4",
+                "times": [
+                    [
+                        "Fri 11:40-12:30 FENS L061"
+                    ]
+                ]
+            },
+            {
+                "section": "C1",
+                "times": [
+                    [
+                        "Fri 12:40-13:30 FASS 1089"
+                    ]
+                ]
+            },
+            {
+                "section": "C2",
+                "times": [
+                    [
+                        "Fri 12:40-13:30 FASS G006"
+                    ]
+                ]
+            },
+            {
+                "section": "C3",
+                "times": [
+                    [
+                        "Fri 12:40-13:30 FASS G048"
+                    ]
+                ]
+            },
+            {
+                "section": "D1",
+                "times": [
+                    [
+                        "Fri 14:40-15:30 FASS 1097"
+                    ]
+                ]
+            },
+            {
+                "section": "D2",
+                "times": [
+                    [
+                        "Fri 14:40-15:30 FENS L029"
+                    ]
+                ]
+            },
+            {
+                "section": "D3",
+                "times": [
+                    [
+                        "Fri 14:40-15:30 FASS 2023"
+                    ]
+                ]
+            },
+            {
+                "section": "E1",
+                "times": [
+                    [
+                        "Fri 15:40-16:30 FASS 1103"
+                    ]
+                ]
+            },
+            {
+                "section": "E2",
+                "times": [
+                    [
+                        "Fri 15:40-16:30 FASS 1097"
+                    ]
+                ]
+            },
+            {
+                "section": "E3",
+                "times": [
+                    [
+                        "Fri 15:40-16:30 FASS G048"
+                    ]
+                ]
+            },
+            {
+                "section": "E4",
+                "times": [
+                    [
+                        "Fri 15:40-16:30 FASS 1099"
+                    ]
+                ]
+            },
+            {
+                "section": "F1",
+                "times": [
+                    [
+                        "Fri 16:40-17:30 FASS 1089"
+                    ]
+                ]
+            },
+            {
+                "section": "F2",
+                "times": [
+                    [
+                        "Fri 16:40-17:30 FASS 1103"
+                    ]
+                ]
+            },
+            {
+                "section": "F3",
+                "times": [
+                    [
+                        "Fri 16:40-17:30 FASS 1097"
+                    ]
+                ]
+            },
+            {
+                "section": "F4",
+                "times": [
+                    [
+                        "Fri 16:40-17:30 FASS G048"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MATH 306",
+        "course_type": "core",
+        "course_name": "Statistical Modelling",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "MATH 203"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 08:40-09:30 FENS G077",
+                        "Fri 08:40-10:30 FENS G077"
+                    ]
+                ]
+            },
+            {
+                "section": "A",
+                "times": [
+                    [
+                        "Mon 09:40-10:30 FENS L027"
+                    ]
+                ]
+            },
+            {
+                "section": "B",
+                "times": [
+                    [
+                        "Mon 10:40-11:30 FENS L027"
+                    ]
+                ]
+            },
+            {
+                "section": "C",
+                "times": [
+                    [
+                        "Mon 11:40-12:30 FENS L027"
+                    ]
+                ]
+            },
+            {
+                "section": "D",
+                "times": [
+                    [
+                        "Mon 12:40-13:30 FENS L065"
+                    ]
+                ]
+            },
+            {
+                "section": "E",
+                "times": [
+                    [
+                        "Mon 13:40-14:30 FENS L062"
+                    ]
+                ]
+            },
+            {
+                "section": "F",
+                "times": [
+                    [
+                        "Mon 14:40-15:30 FENS L027"
+                    ]
+                ]
+            },
+            {
+                "section": "G",
+                "times": [
+                    [
+                        "Mon 15:40-16:30 FENS L067"
+                    ]
+                ]
+            },
+            {
+                "section": "H",
+                "times": [
+                    [
+                        "Mon 16:40-17:30 FENS L035"
+                    ]
+                ]
+            },
+            {
+                "section": "I",
+                "times": [
+                    [
+                        "Tue 14:40-15:30 FENS L029"
+                    ]
+                ]
+            },
+            {
+                "section": "J",
+                "times": [
+                    [
+                        "Tue 15:40-16:30 FENS L029"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MAT 206",
+        "course_type": "core",
+        "course_name": "Kinetics of Materials",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "ENS 202",
+                "ENS 205"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 12:40-14:30 FASS G050",
+                        "Thu 12:40-13:30 FENS L058",
+                        "Thu 17:40-19:30 FENS G025"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MAT 306",
+        "course_type": "core",
+        "course_name": "Computational Techniques for Materials at the Nano-scale",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MAT 416",
+        "course_type": "core",
+        "course_name": "Biomaterials Science and Biocompatibility",
+        "ects_credits": 5,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Thu 14:40-16:30 FENS L055",
+                        "Fri 12:40-13:30 FENS L055"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "NS 208",
+        "course_type": "core",
+        "course_name": "General Biotechnology",
+        "ects_credits": 5,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 15:40-17:30 FENS L062",
+                        "Fri 08:40-09:30 FENS L055"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PHYS 303",
+        "course_type": "core",
+        "course_name": "Quantum Mechanics I",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "NS 102",
+                "MATH 102"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PHYS 412",
+        "course_type": "core",
+        "course_name": "Statistical Mechanics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 13:40-14:30 FENS L058",
+                        "Thu 09:40-11:30 FENS L058"
+                    ]
+                ]
+            }
+        ]
+    }
+]

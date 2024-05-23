@@ -1,0 +1,124 @@
+[
+    {
+        "course_code": "VA 201",
+        "course_type": "required",
+        "course_name": "Visual Language I",
+        "ects_credits": 7,
+        "su_credits": 4,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 203",
+        "course_type": "required",
+        "course_name": "Language of Drawing I",
+        "ects_credits": 7,
+        "su_credits": 4,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 300",
+        "course_type": "required",
+        "course_name": "Project and Internship",
+        "ects_credits": 5,
+        "su_credits": 0,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "VA 301",
+        "course_type": "required",
+        "course_name": "Art Studio I",
+        "ects_credits": 7,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "VA 201",
+                "VA 203"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 303",
+        "course_type": "required",
+        "course_name": "Design Studio I",
+        "ects_credits": 7,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "VA 201",
+                "VA 203"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "VA 401",
+        "course_type": "required",
+        "course_name": "Art Studio III",
+        "ects_credits": 7,
+        "su_credits": 4,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "VA 201",
+                "VA 203"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 14:40-16:30 Art and Research Center 1001",
+                        "Thu 15:40-17:30 Art and Research Center 1001"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "VA 403",
+        "course_type": "required",
+        "course_name": "Design Studio III",
+        "ects_credits": 7,
+        "su_credits": 4,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "VA 201",
+                "VA 203"
+            ],
+            "general": []
+        },
+        "sections": []
+    }
+]

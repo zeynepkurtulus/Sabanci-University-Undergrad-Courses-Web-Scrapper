@@ -1,0 +1,1321 @@
+[
+    {
+        "course_code": "ENS 202",
+        "course_type": "required",
+        "course_name": "Thermodynamics",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "NS 102"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "ENS 491",
+        "course_type": "required",
+        "course_name": "Graduation Project (Design)",
+        "ects_credits": 2,
+        "su_credits": 1,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "01",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "02",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "03",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "04",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "05",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "06",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "07",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "08",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "09",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "10",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "11",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "12",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "13",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "14",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "15",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "16",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "17",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "18",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "19",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "20",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "21",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "22",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "23",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "24",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "25",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "26",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "27",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "28",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "29",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "30",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "31",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "32",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "33",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "34",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "35",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "36",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "37",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "38",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "39",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "40",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "41",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "42",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "43",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "44",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "45",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "46",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "47",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "48",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "49",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "50",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "51",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "52",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "53",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "54",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "55",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "56",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "57",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "58",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "59",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "60",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "61",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "62",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "63",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "64",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "65",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "66",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "67",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "68",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "69",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "70",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "71",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "72",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "73",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "74",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "75",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "76",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "77",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "78",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "79",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "80",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "81",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "82",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "A",
+                "times": [
+                    [
+                        "Wed 15:40-17:30"
+                    ]
+                ]
+            },
+            {
+                "section": "B",
+                "times": [
+                    [
+                        "Wed 17:40-19:30"
+                    ]
+                ]
+            },
+            {
+                "section": "C",
+                "times": [
+                    [
+                        "Fri 15:40-17:30"
+                    ]
+                ]
+            },
+            {
+                "section": "D",
+                "times": [
+                    [
+                        "Fri 17:40-19:30"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ENS 492",
+        "course_type": "required",
+        "course_name": "Graduation Project  (Implementation)",
+        "ects_credits": 5,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "ENS 491",
+                    "ENS 491"
+                ]
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "01",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "02",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "03",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "04",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "05",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "06",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "07",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "08",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "09",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "10",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "11",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "12",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "13",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "14",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "16",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "17",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "18",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "19",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "20",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "21",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "22",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "23",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "24",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "25",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "26",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "27",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "28",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "29",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "30",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "31",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "32",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "33",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "34",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "35",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "36",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "37",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "38",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "39",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "40",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "41",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "42",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "43",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "44",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "45",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "46",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "47",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "48",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "49",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "50",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            },
+            {
+                "section": "51",
+                "times": [
+                    [
+                        "TBA TBA"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MATH 202",
+        "course_type": "required",
+        "course_name": "Differential Equations",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "MATH 102"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 08:40-09:30 UC G030",
+                        "Wed 14:40-16:30 UC G030"
+                    ]
+                ]
+            },
+            {
+                "section": "A1",
+                "times": [
+                    [
+                        "Wed 16:40-17:30 FENS G025"
+                    ]
+                ]
+            },
+            {
+                "section": "A2",
+                "times": [
+                    [
+                        "Wed 16:40-17:30 FENS L048"
+                    ]
+                ]
+            },
+            {
+                "section": "B1",
+                "times": [
+                    [
+                        "Wed 17:40-18:30 FENS L048"
+                    ]
+                ]
+            },
+            {
+                "section": "B2",
+                "times": [
+                    [
+                        "Wed 17:40-18:30 FASS G050"
+                    ]
+                ]
+            },
+            {
+                "section": "C1",
+                "times": [
+                    [
+                        "Thu 17:40-18:30 FENS L058"
+                    ]
+                ]
+            },
+            {
+                "section": "C2",
+                "times": [
+                    [
+                        "Thu 17:40-18:30 FENS L048"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MAT 204",
+        "course_type": "required",
+        "course_name": "Electrical, Optical and Magnetic Properties of Materials",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "NS 101",
+                "MATH 101"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 10:40-12:30 FENS L062",
+                        "Thu 13:40-14:30 FENS L056",
+                        "Fri 17:40-19:30 FENS G029"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MAT 312",
+        "course_type": "required",
+        "course_name": "Materials Characterization",
+        "ects_credits": 7,
+        "su_credits": 4,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "ENS 202",
+                "MAT 204",
+                "ENS 205"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MAT 314",
+        "course_type": "required",
+        "course_name": "Mechanical Properties of Materials",
+        "ects_credits": 5,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "ENS 205"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "MAT 395",
+        "course_type": "required",
+        "course_name": "Internship Project",
+        "ects_credits": 5,
+        "su_credits": 0,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "NS 218",
+        "course_type": "required",
+        "course_name": "Fundamentals of Nanoscience",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [
+                "ENS 202"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 11:40-12:30 FENS G029",
+                        "Tue 12:40-14:30 FENS G029"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PROJ 302",
+        "course_type": "required",
+        "course_name": "Summer Project",
+        "ects_credits": 5,
+        "su_credits": 0,
+        "faculty_code": "FENS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    }
+]

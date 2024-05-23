@@ -1,0 +1,268 @@
+[
+    {
+        "course_code": "ORG 302",
+        "course_type": "core",
+        "course_name": "Organizational Behavior",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "SBS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "A",
+                "times": [
+                    [
+                        "Tue 09:40-12:30 FENS L063"
+                    ]
+                ]
+            },
+            {
+                "section": "B",
+                "times": [
+                    [
+                        "Thu 09:40-12:30 FASS G006"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PSY 305",
+        "course_type": "core",
+        "course_name": "Experimental Psychology",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "SPS 102",
+                "PSY 201",
+                "PSY 202"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 11:40-13:30 FASS 1075",
+                        "Wed 10:40-11:30 FASS G030"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PSY 306",
+        "course_type": "core",
+        "course_name": "Testing and Measurement",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201",
+                "SPS 102",
+                "PSY 202"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 310",
+        "course_type": "core",
+        "course_name": "Cognitive Processes",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "SPS 102"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Wed 11:40-12:30 FASS 1001-1001A",
+                        "Thu 08:40-10:30 FASS 1001-1001A"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PSY 312",
+        "course_type": "core",
+        "course_name": "Sensation / Perception",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201",
+                "SPS 102"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 314",
+        "course_type": "core",
+        "course_name": "Language",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201",
+                "SPS 102"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 10:40-11:30 FASS G048",
+                        "Thu 14:40-16:30 FASS 1103"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PSY 320",
+        "course_type": "core",
+        "course_name": "Developmental Psychology",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201",
+                "SPS 102"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Tue 09:40-10:30 FASS G048",
+                        "Thu 11:40-13:30 FASS 1097"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PSY 340",
+        "course_type": "core",
+        "course_name": "Social Psychology",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201",
+                "SPS 102"
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 12:40-14:30 FASS G056",
+                        "Tue 14:40-15:30 FASS G049"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PSY 350",
+        "course_type": "core",
+        "course_name": "Introduction to Neuroscience",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                [
+                    "SPS 102",
+                    "NS 102"
+                ]
+            ],
+            "general": []
+        },
+        "sections": [
+            {
+                "section": "0",
+                "times": [
+                    [
+                        "Mon 08:40-10:30 FENS 2019",
+                        "Wed 14:40-15:30 FENS 2019"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PSY 360",
+        "course_type": "core",
+        "course_name": "Abnormal Behavior",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201",
+                "SPS 102"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 361",
+        "course_type": "core",
+        "course_name": "Personality",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [
+                "PSY 201",
+                "SPS 102"
+            ],
+            "general": []
+        },
+        "sections": []
+    },
+    {
+        "course_code": "PSY 380",
+        "course_type": "core",
+        "course_name": "Testing and Measurement",
+        "ects_credits": 6,
+        "su_credits": 3,
+        "faculty_code": "FASS",
+        "condition": {
+            "prerequisite": [],
+            "general": []
+        },
+        "sections": []
+    }
+]
